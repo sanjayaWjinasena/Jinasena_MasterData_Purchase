@@ -31,6 +31,7 @@
         'data/x_structure_master.csv',
         'data/x_structure_details.csv',
         'data/x_imports_ledger_setup.csv',
+        'data/product.template.link.csv',
     ],
     'installable': True,
     'auto_install': False,
