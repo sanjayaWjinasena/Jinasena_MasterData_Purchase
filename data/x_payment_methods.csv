@@ -3,7 +3,7 @@ payment_methods_cash,1,10,CASH,Cash,,base.main_company
 payment_methods_bank,1,10,BANK,Bank,,base.main_company
 payment_methods_lc,1,10,LC,Letter of Credit,1,base.main_company
 payment_methods_tt,1,10,TT,Telegraphic Transfer,,base.main_company
-payment_methods_cash_9,1,10,CASH,Cash,,
-payment_methods_bank_10,1,10,BANK,Bank,,
-payment_methods_lc_11,1,10,LC,Letter of Credit,1,
-payment_methods_tt_12,1,10,TT,Telegraphic Transfer,,
+payment_methods_cash_9,1,10,CASH,Cash,,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+payment_methods_bank_10,1,10,BANK,Bank,,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+payment_methods_lc_11,1,10,LC,Letter of Credit,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+payment_methods_tt_12,1,10,TT,Telegraphic Transfer,,seed_master_data_and_settings.company_jinasena_agricultural_machinery

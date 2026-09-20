@@ -7,11 +7,11 @@ trf_duty_pal,base.main_company,10,PAL,1,Port and Airport Development Levy
 trf_duty_ridl,base.main_company,10,RIDL,1,Regional Infrastructure Development Levy
 trf_duty_srl,base.main_company,10,SRL,1,Social responsibility Levy
 trf_duty_surcharge,base.main_company,10,Surcharge,1,Surcharge
-trf_duty_cid_49,,10,CID,1,Customs Duty
-trf_duty_eic_50,,10,EIC,1,Cess Levy
-trf_duty_esc_51,,10,ESC,1,Economic Service Charge
-trf_duty_excise_52,,10,Excise,1,Excise Duty
-trf_duty_pal_53,,10,PAL,1,Port and Airport Development Levy
-trf_duty_ridl_54,,10,RIDL,1,Regional Infrastructure Development Levy
-trf_duty_srl_55,,10,SRL,1,Social responsibility Levy
-trf_duty_surcharge_56,,10,Surcharge,1,Surcharge
+trf_duty_cid_49,seed_master_data_and_settings.company_jinasena_agricultural_machinery,10,CID,1,Customs Duty
+trf_duty_eic_50,seed_master_data_and_settings.company_jinasena_agricultural_machinery,10,EIC,1,Cess Levy
+trf_duty_esc_51,seed_master_data_and_settings.company_jinasena_agricultural_machinery,10,ESC,1,Economic Service Charge
+trf_duty_excise_52,seed_master_data_and_settings.company_jinasena_agricultural_machinery,10,Excise,1,Excise Duty
+trf_duty_pal_53,seed_master_data_and_settings.company_jinasena_agricultural_machinery,10,PAL,1,Port and Airport Development Levy
+trf_duty_ridl_54,seed_master_data_and_settings.company_jinasena_agricultural_machinery,10,RIDL,1,Regional Infrastructure Development Levy
+trf_duty_srl_55,seed_master_data_and_settings.company_jinasena_agricultural_machinery,10,SRL,1,Social responsibility Levy
+trf_duty_surcharge_56,seed_master_data_and_settings.company_jinasena_agricultural_machinery,10,Surcharge,1,Surcharge

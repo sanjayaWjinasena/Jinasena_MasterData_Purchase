@@ -7,33 +7,33 @@ misc_charge_codes_pal,Item,Duty,1,10,1,Port and Airport Development Levy,PAL,G/L
 misc_charge_codes_ridl,Item,Duty,1,10,1,Regional Infrastructure Development Levy,RIDL,G/L Account,base.main_company
 misc_charge_codes_srl,Item,Duty,1,10,1,Social responsibility Levy,SRL,G/L Account,base.main_company
 misc_charge_codes_surcharge,Item,Duty,1,10,1,Surcharge,Surcharge,G/L Account,base.main_company
-misc_charge_codes_cid_119,Item,Duty,1,10,1,Customs Duty,CID,G/L Account,
-misc_charge_codes_eic_120,Item,Duty,1,10,1,Cess Levy,EIC,G/L Account,
-misc_charge_codes_esc_121,Item,Duty,1,10,1,Economic Service Charge,ESC,G/L Account,
-misc_charge_codes_excise_122,Item,Duty,1,10,1,Excise Duty,Excise,G/L Account,
-misc_charge_codes_pal_123,Item,Duty,1,10,1,Port and Airport Development Levy,PAL,G/L Account,
-misc_charge_codes_ridl_124,Item,Duty,1,10,1,Regional Infrastructure Development Levy,RIDL,G/L Account,
-misc_charge_codes_srl_125,Item,Duty,1,10,1,Social responsibility Levy,SRL,G/L Account,
-misc_charge_codes_surcharge_126,Item,Duty,1,10,1,Surcharge,Surcharge,G/L Account,
+misc_charge_codes_cid_119,Item,Duty,1,10,1,Customs Duty,CID,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+misc_charge_codes_eic_120,Item,Duty,1,10,1,Cess Levy,EIC,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+misc_charge_codes_esc_121,Item,Duty,1,10,1,Economic Service Charge,ESC,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+misc_charge_codes_excise_122,Item,Duty,1,10,1,Excise Duty,Excise,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+misc_charge_codes_pal_123,Item,Duty,1,10,1,Port and Airport Development Levy,PAL,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+misc_charge_codes_ridl_124,Item,Duty,1,10,1,Regional Infrastructure Development Levy,RIDL,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+misc_charge_codes_srl_125,Item,Duty,1,10,1,Social responsibility Levy,SRL,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+misc_charge_codes_surcharge_126,Item,Duty,1,10,1,Surcharge,Surcharge,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 misc_charge_codes_nbt,Item,Taxes,1,10,1,NBT Tax Applicable,NBT,G/L Account,base.main_company
 misc_charge_codes_nbt_n,Item,Taxes,1,10,1,NBT Tax not Applicable,NBT-N,G/L Account,base.main_company
 misc_charge_codes_vat_on_item,Item,Taxes,1,10,1,Value Added Tax - Loaded on Items.,VAT-on-Item,G/L Account,base.main_company
 misc_charge_codes_vat_on_gl,G/L Account,Taxes,1,10,1,Value Added Tax - Loaded on GL.,VAT-on-GL,G/L Account,base.main_company
 misc_charge_codes_sscl,Item,Taxes,1,10,1,Social Security Contribution Levy,SSCL,G/L Account,base.main_company
-misc_charge_codes_nbt_155,Item,Taxes,1,10,1,NBT Tax Applicable,NBT,G/L Account,
-misc_charge_codes_nbt_n_156,Item,Taxes,1,10,1,NBT Tax not Applicable,NBT-N,G/L Account,
-misc_charge_codes_vat_on_item_157,Item,Taxes,1,10,1,Value Added Tax - Loaded on Items.,VAT-on-Item,G/L Account,
-misc_charge_codes_vat_on_gl_158,G/L Account,Taxes,1,10,1,Value Added Tax - Loaded on GL.,VAT-on-GL,G/L Account,
-misc_charge_codes_sscl_159,Item,Taxes,1,10,1,Social Security Contribution Levy,SSCL,G/L Account,
-misc_charge_codes_bankcharge,Item,Charges,1,10,1,Bank charges,BankCharge,G/L Account,
-misc_charge_codes_clearing,Item,Charges,1,10,1,Clearing charges,Clearing,G/L Account,
-misc_charge_codes_freight_ex_work,Item,Charges,1,10,1,Freight charges,Freight & Ex work,G/L Account,
-misc_charge_codes_insurance,Item,Charges,1,10,1,Insurance charges,Insurance,G/L Account,
-misc_charge_codes_misc,Item,Charges,1,10,1,Misc charges,Misc,G/L Account,
-misc_charge_codes_sup_bank_charge,Item,Charges,1,10,1,Supplier's Bank Charges,Sup.Bank Charge,G/L Account,
-misc_charge_codes_pallet_charges,Item,Charges,1,10,1,Pallet Charges,Pallet Charges,G/L Account,
-misc_charge_codes_document_charges,Item,Charges,1,10,1,Document Charges,Document Charges,G/L Account,
-misc_charge_codes_other,Item,Charges,1,10,1,Other charges,Other,G/L Account,
+misc_charge_codes_nbt_155,Item,Taxes,1,10,1,NBT Tax Applicable,NBT,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+misc_charge_codes_nbt_n_156,Item,Taxes,1,10,1,NBT Tax not Applicable,NBT-N,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+misc_charge_codes_vat_on_item_157,Item,Taxes,1,10,1,Value Added Tax - Loaded on Items.,VAT-on-Item,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+misc_charge_codes_vat_on_gl_158,G/L Account,Taxes,1,10,1,Value Added Tax - Loaded on GL.,VAT-on-GL,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+misc_charge_codes_sscl_159,Item,Taxes,1,10,1,Social Security Contribution Levy,SSCL,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+misc_charge_codes_bankcharge,Item,Charges,1,10,1,Bank charges,BankCharge,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+misc_charge_codes_clearing,Item,Charges,1,10,1,Clearing charges,Clearing,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+misc_charge_codes_freight_ex_work,Item,Charges,1,10,1,Freight charges,Freight & Ex work,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+misc_charge_codes_insurance,Item,Charges,1,10,1,Insurance charges,Insurance,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+misc_charge_codes_misc,Item,Charges,1,10,1,Misc charges,Misc,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+misc_charge_codes_sup_bank_charge,Item,Charges,1,10,1,Supplier's Bank Charges,Sup.Bank Charge,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+misc_charge_codes_pallet_charges,Item,Charges,1,10,1,Pallet Charges,Pallet Charges,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+misc_charge_codes_document_charges,Item,Charges,1,10,1,Document Charges,Document Charges,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+misc_charge_codes_other,Item,Charges,1,10,1,Other charges,Other,G/L Account,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 misc_charge_codes_bankcharge_179,Item,Charges,1,10,1,Bank charges,BankCharge,G/L Account,base.main_company
 misc_charge_codes_clearing_180,Item,Charges,1,10,1,Clearing charges,Clearing,G/L Account,base.main_company
 misc_charge_codes_freight_ex_work_181,Item,Charges,1,10,1,Freight charges,Freight & Ex work,G/L Account,base.main_company

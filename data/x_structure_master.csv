@@ -1,3 +1,3 @@
-id,x_studio_company_id/id,x_name,x_active,x_studio_sequence,x_studio_approved_by/id,x_studio_structure_no,x_studio_status,x_studio_selection_field_ba7aA
-structure_master_vat_nbt_load_to_gl_jld,base.main_company,VAT & NBT - Load to GL - JLD,1,10,base.user_admin,6,Charges Copied,Charges Copied
-structure_master_vat_nbt_load_to_gl_jam,,VAT & NBT - Load to GL - JAM,1,10,,7,Charges Copied,Charges Copied
+id,x_studio_company_id/id,x_name,x_active,x_studio_sequence,x_studio_approved_by/id,x_studio_inactive_by/id,x_studio_structure_no,x_studio_status,x_studio_selection_field_ba7aA
+structure_master_vat_nbt_load_to_gl_jld,base.main_company,VAT & NBT - Load to GL - JLD,1,10,base.user_admin,seed_master_data_and_settings.user_24,6,Charges Copied,Charges Copied
+structure_master_vat_nbt_load_to_gl_jam,seed_master_data_and_settings.company_jinasena_agricultural_machinery,VAT & NBT - Load to GL - JAM,1,10,,,7,Charges Copied,Charges Copied
