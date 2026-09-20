@@ -14,7 +14,7 @@
         'Jinasena_MasterData_Stock',
     ],
     'data': [
-        'data/res_partner.csv',
+        'data/res.partner.csv',
         'data/x_delivery_terms.csv',
         'data/x_delivery_term_charge.csv',
         'data/x_payment_methods.csv',
