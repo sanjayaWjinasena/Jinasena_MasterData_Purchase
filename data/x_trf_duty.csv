@@ -1,0 +1,17 @@
+id,x_studio_company_id/id,x_studio_sequence,x_name,x_active,x_studio_description
+trf_duty_cid,,10,CID,1,Customs Duty
+trf_duty_eic,,10,EIC,1,Cess Levy
+trf_duty_esc,,10,ESC,1,Economic Service Charge
+trf_duty_excise,,10,Excise,1,Excise Duty
+trf_duty_pal,,10,PAL,1,Port and Airport Development Levy
+trf_duty_ridl,,10,RIDL,1,Regional Infrastructure Development Levy
+trf_duty_srl,,10,SRL,1,Social responsibility Levy
+trf_duty_surcharge,,10,Surcharge,1,Surcharge
+trf_duty_cid_49,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,10,CID,1,Customs Duty
+trf_duty_eic_50,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,10,EIC,1,Cess Levy
+trf_duty_esc_51,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,10,ESC,1,Economic Service Charge
+trf_duty_excise_52,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,10,Excise,1,Excise Duty
+trf_duty_pal_53,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,10,PAL,1,Port and Airport Development Levy
+trf_duty_ridl_54,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,10,RIDL,1,Regional Infrastructure Development Levy
+trf_duty_srl_55,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,10,SRL,1,Social responsibility Levy
+trf_duty_surcharge_56,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,10,Surcharge,1,Surcharge

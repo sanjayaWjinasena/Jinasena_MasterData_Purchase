@@ -1,0 +1,19 @@
+id,x_active,x_studio_sequence,x_name,x_studio_description,x_studio_company_id/id
+trf_charges_bankcharge,1,10,BankCharge,Bank charges,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
+trf_charges_clearing,1,10,Clearing,Clearing charges,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
+trf_charges_freight_ex_work,1,10,Freight & Ex work,Freight charges,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
+trf_charges_insurance,1,10,Insurance,Insurance charges,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
+trf_charges_misc,1,10,Misc,Misc charges,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
+trf_charges_sup_bank_charge,1,10,Sup.Bank Charge,Supplier's Bank Charges,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
+trf_charges_pallet_charges,1,10,Pallet Charges,Pallet Charges,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
+trf_charges_document_charges,1,10,Document Charges,Document Charges,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
+trf_charges_other,1,10,Other,Other charges,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
+trf_charges_bankcharge_121,1,10,BankCharge,Bank charges,
+trf_charges_clearing_122,1,10,Clearing,Clearing charges,
+trf_charges_freight_ex_work_123,1,10,Freight & Ex work,Freight charges,
+trf_charges_insurance_124,1,10,Insurance,Insurance charges,
+trf_charges_misc_125,1,10,Misc,Misc charges,
+trf_charges_sup_bank_charge_126,1,10,Sup.Bank Charge,Supplier's Bank Charges,
+trf_charges_pallet_charges_127,1,10,Pallet Charges,Pallet Charges,
+trf_charges_document_charges_128,1,10,Document Charges,Document Charges,
+trf_charges_other_129,1,10,Other,Other charges,

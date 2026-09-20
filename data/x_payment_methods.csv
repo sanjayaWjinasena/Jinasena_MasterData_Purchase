@@ -1,0 +1,9 @@
+id,x_active,x_studio_sequence,x_name,x_studio_description,x_studio_lc,x_studio_company_id/id
+payment_methods_cash,1,10,CASH,Cash,,
+payment_methods_bank,1,10,BANK,Bank,,
+payment_methods_lc,1,10,LC,Letter of Credit,1,
+payment_methods_tt,1,10,TT,Telegraphic Transfer,,
+payment_methods_cash_9,1,10,CASH,Cash,,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
+payment_methods_bank_10,1,10,BANK,Bank,,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
+payment_methods_lc_11,1,10,LC,Letter of Credit,1,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
+payment_methods_tt_12,1,10,TT,Telegraphic Transfer,,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
