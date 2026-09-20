@@ -1,42 +1,42 @@
-id,x_studio_company_id/id,x_studio_tax_appicable2,x_active,x_studio_sequence,x_name,x_studio_description,x_studio_delivery_terms_id/id,x_studio_tax_appicable,x_studio_applicable
-delivery_term_charge_test,,,1,10,test,,,,
-delivery_term_charge_bankcharge,,,1,10,BankCharge,Bank charges,,,
-delivery_term_charge_c_f,,,1,10,C & F,Cost and freight,,,1
-delivery_term_charge_carriage,,,1,10,Carriage,Carriage charges,,,1
-delivery_term_charge_clearing,,,1,10,Clearing,Clearing charges,,,1
-delivery_term_charge_freight,,1,1,10,Freight,Freight charges,,1,1
-delivery_term_charge_insurance,,,1,10,Insurance,Insurance charges,,1,1
-delivery_term_charge_misc,,,1,10,Misc,Misc charges,,,1
-delivery_term_charge_packing,,,1,10,Packing,Packing charges,,,1
-delivery_term_charge_bankcharge_48,,,1,10,BankCharge,Bank charges,,,
-delivery_term_charge_c_f_49,,,1,10,C & F,Cost and freight,,,
-delivery_term_charge_carriage_50,,,1,10,Carriage,Carriage charges,,,
-delivery_term_charge_clearing_51,,,1,10,Clearing,Clearing charges,,,
-delivery_term_charge_freight_52,,,1,10,Freight,Freight charges,,,
-delivery_term_charge_insurance_53,,,1,10,Insurance,Insurance charges,,,
-delivery_term_charge_misc_54,,,1,10,Misc,Misc charges,,,
-delivery_term_charge_packing_55,,,1,10,Packing,Packing charges,,,
-delivery_term_charge_test_charge,,,1,10,Test Charge,Test Charge,,,
-delivery_term_charge_bankcharge_57,,,1,10,BankCharge,Bank charges,,,
-delivery_term_charge_c_f_58,,,1,10,C & F,Cost and freight,,,
-delivery_term_charge_carriage_59,,,1,10,Carriage,Carriage charges,,,
-delivery_term_charge_clearing_60,,,1,10,Clearing,Clearing charges,,,
-delivery_term_charge_freight_61,,,1,10,Freight,Freight charges,,1,
-delivery_term_charge_insurance_62,,,1,10,Insurance,Insurance charges,,1,
-delivery_term_charge_misc_63,,,1,10,Misc,Misc charges,,,
-delivery_term_charge_packing_64,,,1,10,Packing,Packing charges,,,
-delivery_term_charge_test_charge_65,,,1,10,Test Charge,Test Charge,,,
-delivery_term_charge_charge666,,,1,10,CHARGE666,CHARGE666,,,
-delivery_term_charge_charge777,,,1,10,CHARGE777,CHARGE777,,,
-delivery_term_charge_test_3,,,1,10,test-3,,,,
-delivery_term_charge_test_1,,,1,10,Test-1,Test-1,,,
-delivery_term_charge_test_1_70,,,1,10,Test-1,Test-1,,,
-delivery_term_charge_bankcharge_71,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,,1,10,BankCharge,Bank charges,Jinasena_MasterData_Purchase.delivery_terms_cif,,
-delivery_term_charge_clearing_72,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,,1,10,Clearing,Clearing charges,Jinasena_MasterData_Purchase.delivery_terms_cif,,
-delivery_term_charge_freight_ex_work,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,1,1,10,Freight & Ex work,Freight charges,Jinasena_MasterData_Purchase.delivery_terms_cif,1,
-delivery_term_charge_insurance_74,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,1,1,10,Insurance,Insurance charges,Jinasena_MasterData_Purchase.delivery_terms_cif,1,
-delivery_term_charge_misc_75,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,,1,10,Misc,Misc charges,Jinasena_MasterData_Purchase.delivery_terms_cif,,
-delivery_term_charge_sup_bank_charge,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,,1,10,Sup.Bank Charge,Supplier's Bank Charges,Jinasena_MasterData_Purchase.delivery_terms_cif,,
-delivery_term_charge_pallet_charges,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,,1,10,Pallet Charges,Pallet Charges,Jinasena_MasterData_Purchase.delivery_terms_cif,,
-delivery_term_charge_document_charges,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,,1,10,Document Charges,Document Charges,Jinasena_MasterData_Purchase.delivery_terms_cif,,
-delivery_term_charge_other,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,,1,10,Other,Other charges,Jinasena_MasterData_Purchase.delivery_terms_cif,,
+id,x_studio_tax_appicable2,x_active,x_studio_sequence,x_name,x_studio_description,x_studio_delivery_terms_id/id,x_studio_tax_appicable,x_studio_applicable
+delivery_term_charge_test,,1,10,test,,,,
+delivery_term_charge_bankcharge,,1,10,BankCharge,Bank charges,,,
+delivery_term_charge_c_f,,1,10,C & F,Cost and freight,,,1
+delivery_term_charge_carriage,,1,10,Carriage,Carriage charges,,,1
+delivery_term_charge_clearing,,1,10,Clearing,Clearing charges,,,1
+delivery_term_charge_freight,1,1,10,Freight,Freight charges,,1,1
+delivery_term_charge_insurance,,1,10,Insurance,Insurance charges,,1,1
+delivery_term_charge_misc,,1,10,Misc,Misc charges,,,1
+delivery_term_charge_packing,,1,10,Packing,Packing charges,,,1
+delivery_term_charge_bankcharge_48,,1,10,BankCharge,Bank charges,,,
+delivery_term_charge_c_f_49,,1,10,C & F,Cost and freight,,,
+delivery_term_charge_carriage_50,,1,10,Carriage,Carriage charges,,,
+delivery_term_charge_clearing_51,,1,10,Clearing,Clearing charges,,,
+delivery_term_charge_freight_52,,1,10,Freight,Freight charges,,,
+delivery_term_charge_insurance_53,,1,10,Insurance,Insurance charges,,,
+delivery_term_charge_misc_54,,1,10,Misc,Misc charges,,,
+delivery_term_charge_packing_55,,1,10,Packing,Packing charges,,,
+delivery_term_charge_test_charge,,1,10,Test Charge,Test Charge,,,
+delivery_term_charge_bankcharge_57,,1,10,BankCharge,Bank charges,,,
+delivery_term_charge_c_f_58,,1,10,C & F,Cost and freight,,,
+delivery_term_charge_carriage_59,,1,10,Carriage,Carriage charges,,,
+delivery_term_charge_clearing_60,,1,10,Clearing,Clearing charges,,,
+delivery_term_charge_freight_61,,1,10,Freight,Freight charges,,1,
+delivery_term_charge_insurance_62,,1,10,Insurance,Insurance charges,,1,
+delivery_term_charge_misc_63,,1,10,Misc,Misc charges,,,
+delivery_term_charge_packing_64,,1,10,Packing,Packing charges,,,
+delivery_term_charge_test_charge_65,,1,10,Test Charge,Test Charge,,,
+delivery_term_charge_charge666,,1,10,CHARGE666,CHARGE666,,,
+delivery_term_charge_charge777,,1,10,CHARGE777,CHARGE777,,,
+delivery_term_charge_test_3,,1,10,test-3,,,,
+delivery_term_charge_test_1,,1,10,Test-1,Test-1,,,
+delivery_term_charge_test_1_70,,1,10,Test-1,Test-1,,,
+delivery_term_charge_bankcharge_71,,1,10,BankCharge,Bank charges,Jinasena_MasterData_Purchase.delivery_terms_cif,,
+delivery_term_charge_clearing_72,,1,10,Clearing,Clearing charges,Jinasena_MasterData_Purchase.delivery_terms_cif,,
+delivery_term_charge_freight_ex_work,1,1,10,Freight & Ex work,Freight charges,Jinasena_MasterData_Purchase.delivery_terms_cif,1,
+delivery_term_charge_insurance_74,1,1,10,Insurance,Insurance charges,Jinasena_MasterData_Purchase.delivery_terms_cif,1,
+delivery_term_charge_misc_75,,1,10,Misc,Misc charges,Jinasena_MasterData_Purchase.delivery_terms_cif,,
+delivery_term_charge_sup_bank_charge,,1,10,Sup.Bank Charge,Supplier's Bank Charges,Jinasena_MasterData_Purchase.delivery_terms_cif,,
+delivery_term_charge_pallet_charges,,1,10,Pallet Charges,Pallet Charges,Jinasena_MasterData_Purchase.delivery_terms_cif,,
+delivery_term_charge_document_charges,,1,10,Document Charges,Document Charges,Jinasena_MasterData_Purchase.delivery_terms_cif,,
+delivery_term_charge_other,,1,10,Other,Other charges,Jinasena_MasterData_Purchase.delivery_terms_cif,,

@@ -1,3 +1,3 @@
-id,x_studio_company_id/id,x_name,x_active,x_studio_sequence,x_studio_product_code
-non_inventory_produc_noninv_01,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,NonInv-01,1,10,Test non-inventory item 1
-non_inventory_produc_noninv_02,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,NonInv-02,1,10,Test non-inventory item 2
+id,x_name,x_active,x_studio_sequence,x_studio_product_code
+non_inventory_produc_noninv_01,NonInv-01,1,10,Test non-inventory item 1
+non_inventory_produc_noninv_02,NonInv-02,1,10,Test non-inventory item 2

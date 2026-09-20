@@ -1,45 +1,45 @@
-id,x_studio_debit_acc_type,x_studio_charge_group,x_active,x_studio_sequence,x_studio_system_entry,x_studio_description,x_name,x_studio_credit_acc_type,x_studio_company_id/id
-misc_charge_codes_cid,Item,Duty,1,10,1,Customs Duty,CID,G/L Account,base.main_company
-misc_charge_codes_eic,Item,Duty,1,10,1,Cess Levy,EIC,G/L Account,base.main_company
-misc_charge_codes_esc,Item,Duty,1,10,1,Economic Service Charge,ESC,G/L Account,base.main_company
-misc_charge_codes_excise,Item,Duty,1,10,1,Excise Duty,Excise,G/L Account,base.main_company
-misc_charge_codes_pal,Item,Duty,1,10,1,Port and Airport Development Levy,PAL,G/L Account,base.main_company
-misc_charge_codes_ridl,Item,Duty,1,10,1,Regional Infrastructure Development Levy,RIDL,G/L Account,base.main_company
-misc_charge_codes_srl,Item,Duty,1,10,1,Social responsibility Levy,SRL,G/L Account,base.main_company
-misc_charge_codes_surcharge,Item,Duty,1,10,1,Surcharge,Surcharge,G/L Account,base.main_company
-misc_charge_codes_cid_119,Item,Duty,1,10,1,Customs Duty,CID,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_eic_120,Item,Duty,1,10,1,Cess Levy,EIC,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_esc_121,Item,Duty,1,10,1,Economic Service Charge,ESC,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_excise_122,Item,Duty,1,10,1,Excise Duty,Excise,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_pal_123,Item,Duty,1,10,1,Port and Airport Development Levy,PAL,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_ridl_124,Item,Duty,1,10,1,Regional Infrastructure Development Levy,RIDL,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_srl_125,Item,Duty,1,10,1,Social responsibility Levy,SRL,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_surcharge_126,Item,Duty,1,10,1,Surcharge,Surcharge,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_nbt,Item,Taxes,1,10,1,NBT Tax Applicable,NBT,G/L Account,base.main_company
-misc_charge_codes_nbt_n,Item,Taxes,1,10,1,NBT Tax not Applicable,NBT-N,G/L Account,base.main_company
-misc_charge_codes_vat_on_item,Item,Taxes,1,10,1,Value Added Tax - Loaded on Items.,VAT-on-Item,G/L Account,base.main_company
-misc_charge_codes_vat_on_gl,G/L Account,Taxes,1,10,1,Value Added Tax - Loaded on GL.,VAT-on-GL,G/L Account,base.main_company
-misc_charge_codes_sscl,Item,Taxes,1,10,1,Social Security Contribution Levy,SSCL,G/L Account,base.main_company
-misc_charge_codes_nbt_155,Item,Taxes,1,10,1,NBT Tax Applicable,NBT,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_nbt_n_156,Item,Taxes,1,10,1,NBT Tax not Applicable,NBT-N,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_vat_on_item_157,Item,Taxes,1,10,1,Value Added Tax - Loaded on Items.,VAT-on-Item,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_vat_on_gl_158,G/L Account,Taxes,1,10,1,Value Added Tax - Loaded on GL.,VAT-on-GL,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_sscl_159,Item,Taxes,1,10,1,Social Security Contribution Levy,SSCL,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_bankcharge,Item,Charges,1,10,1,Bank charges,BankCharge,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_clearing,Item,Charges,1,10,1,Clearing charges,Clearing,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_freight_ex_work,Item,Charges,1,10,1,Freight charges,Freight & Ex work,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_insurance,Item,Charges,1,10,1,Insurance charges,Insurance,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_misc,Item,Charges,1,10,1,Misc charges,Misc,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_sup_bank_charge,Item,Charges,1,10,1,Supplier's Bank Charges,Sup.Bank Charge,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_pallet_charges,Item,Charges,1,10,1,Pallet Charges,Pallet Charges,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_document_charges,Item,Charges,1,10,1,Document Charges,Document Charges,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_other,Item,Charges,1,10,1,Other charges,Other,G/L Account,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-misc_charge_codes_bankcharge_179,Item,Charges,1,10,1,Bank charges,BankCharge,G/L Account,base.main_company
-misc_charge_codes_clearing_180,Item,Charges,1,10,1,Clearing charges,Clearing,G/L Account,base.main_company
-misc_charge_codes_freight_ex_work_181,Item,Charges,1,10,1,Freight charges,Freight & Ex work,G/L Account,base.main_company
-misc_charge_codes_insurance_182,Item,Charges,1,10,1,Insurance charges,Insurance,G/L Account,base.main_company
-misc_charge_codes_misc_183,Item,Charges,1,10,1,Misc charges,Misc,G/L Account,base.main_company
-misc_charge_codes_sup_bank_charge_184,Item,Charges,1,10,1,Supplier's Bank Charges,Sup.Bank Charge,G/L Account,base.main_company
-misc_charge_codes_pallet_charges_185,Item,Charges,1,10,1,Pallet Charges,Pallet Charges,G/L Account,base.main_company
-misc_charge_codes_document_charges_186,Item,Charges,1,10,1,Document Charges,Document Charges,G/L Account,base.main_company
-misc_charge_codes_other_187,Item,Charges,1,10,1,Other charges,Other,G/L Account,base.main_company
+id,x_studio_debit_acc_type,x_studio_charge_group,x_studio_charges_line_id/id,x_active,x_studio_sequence,x_studio_system_entry,x_studio_description,x_studio_taxes_line_id/id,x_studio_duties_line_id/id,x_name,x_studio_credit_acc_type,x_studio_company_id/id
+misc_charge_codes_cid,Item,Duty,,1,10,1,Customs Duty,,Jinasena_MasterData_Purchase.trf_duty_cid,CID,G/L Account,base.main_company
+misc_charge_codes_eic,Item,Duty,,1,10,1,Cess Levy,,Jinasena_MasterData_Purchase.trf_duty_eic,EIC,G/L Account,base.main_company
+misc_charge_codes_esc,Item,Duty,,1,10,1,Economic Service Charge,,Jinasena_MasterData_Purchase.trf_duty_esc,ESC,G/L Account,base.main_company
+misc_charge_codes_excise,Item,Duty,,1,10,1,Excise Duty,,Jinasena_MasterData_Purchase.trf_duty_excise,Excise,G/L Account,base.main_company
+misc_charge_codes_pal,Item,Duty,,1,10,1,Port and Airport Development Levy,,Jinasena_MasterData_Purchase.trf_duty_pal,PAL,G/L Account,base.main_company
+misc_charge_codes_ridl,Item,Duty,,1,10,1,Regional Infrastructure Development Levy,,Jinasena_MasterData_Purchase.trf_duty_ridl,RIDL,G/L Account,base.main_company
+misc_charge_codes_srl,Item,Duty,,1,10,1,Social responsibility Levy,,Jinasena_MasterData_Purchase.trf_duty_srl,SRL,G/L Account,base.main_company
+misc_charge_codes_surcharge,Item,Duty,,1,10,1,Surcharge,,Jinasena_MasterData_Purchase.trf_duty_surcharge,Surcharge,G/L Account,base.main_company
+misc_charge_codes_cid_119,Item,Duty,,1,10,1,Customs Duty,,Jinasena_MasterData_Purchase.trf_duty_cid_49,CID,G/L Account,
+misc_charge_codes_eic_120,Item,Duty,,1,10,1,Cess Levy,,Jinasena_MasterData_Purchase.trf_duty_eic_50,EIC,G/L Account,
+misc_charge_codes_esc_121,Item,Duty,,1,10,1,Economic Service Charge,,Jinasena_MasterData_Purchase.trf_duty_esc_51,ESC,G/L Account,
+misc_charge_codes_excise_122,Item,Duty,,1,10,1,Excise Duty,,Jinasena_MasterData_Purchase.trf_duty_excise_52,Excise,G/L Account,
+misc_charge_codes_pal_123,Item,Duty,,1,10,1,Port and Airport Development Levy,,Jinasena_MasterData_Purchase.trf_duty_pal_53,PAL,G/L Account,
+misc_charge_codes_ridl_124,Item,Duty,,1,10,1,Regional Infrastructure Development Levy,,Jinasena_MasterData_Purchase.trf_duty_ridl_54,RIDL,G/L Account,
+misc_charge_codes_srl_125,Item,Duty,,1,10,1,Social responsibility Levy,,Jinasena_MasterData_Purchase.trf_duty_srl_55,SRL,G/L Account,
+misc_charge_codes_surcharge_126,Item,Duty,,1,10,1,Surcharge,,Jinasena_MasterData_Purchase.trf_duty_surcharge_56,Surcharge,G/L Account,
+misc_charge_codes_nbt,Item,Taxes,,1,10,1,NBT Tax Applicable,Jinasena_MasterData_Purchase.trf_taxes_nbt,,NBT,G/L Account,base.main_company
+misc_charge_codes_nbt_n,Item,Taxes,,1,10,1,NBT Tax not Applicable,Jinasena_MasterData_Purchase.trf_taxes_nbt_n,,NBT-N,G/L Account,base.main_company
+misc_charge_codes_vat_on_item,Item,Taxes,,1,10,1,Value Added Tax - Loaded on Items.,Jinasena_MasterData_Purchase.trf_taxes_vat_on_item,,VAT-on-Item,G/L Account,base.main_company
+misc_charge_codes_vat_on_gl,G/L Account,Taxes,,1,10,1,Value Added Tax - Loaded on GL.,Jinasena_MasterData_Purchase.trf_taxes_vat_on_gl,,VAT-on-GL,G/L Account,base.main_company
+misc_charge_codes_sscl,Item,Taxes,,1,10,1,Social Security Contribution Levy,Jinasena_MasterData_Purchase.trf_taxes_sscl,,SSCL,G/L Account,base.main_company
+misc_charge_codes_nbt_155,Item,Taxes,,1,10,1,NBT Tax Applicable,Jinasena_MasterData_Purchase.trf_taxes_nbt_75,,NBT,G/L Account,
+misc_charge_codes_nbt_n_156,Item,Taxes,,1,10,1,NBT Tax not Applicable,Jinasena_MasterData_Purchase.trf_taxes_nbt_n_76,,NBT-N,G/L Account,
+misc_charge_codes_vat_on_item_157,Item,Taxes,,1,10,1,Value Added Tax - Loaded on Items.,Jinasena_MasterData_Purchase.trf_taxes_vat_on_item_77,,VAT-on-Item,G/L Account,
+misc_charge_codes_vat_on_gl_158,G/L Account,Taxes,,1,10,1,Value Added Tax - Loaded on GL.,Jinasena_MasterData_Purchase.trf_taxes_vat_on_gl_78,,VAT-on-GL,G/L Account,
+misc_charge_codes_sscl_159,Item,Taxes,,1,10,1,Social Security Contribution Levy,Jinasena_MasterData_Purchase.trf_taxes_sscl_79,,SSCL,G/L Account,
+misc_charge_codes_bankcharge,Item,Charges,Jinasena_MasterData_Purchase.trf_charges_bankcharge,1,10,1,Bank charges,,,BankCharge,G/L Account,
+misc_charge_codes_clearing,Item,Charges,Jinasena_MasterData_Purchase.trf_charges_clearing,1,10,1,Clearing charges,,,Clearing,G/L Account,
+misc_charge_codes_freight_ex_work,Item,Charges,Jinasena_MasterData_Purchase.trf_charges_freight_ex_work,1,10,1,Freight charges,,,Freight & Ex work,G/L Account,
+misc_charge_codes_insurance,Item,Charges,Jinasena_MasterData_Purchase.trf_charges_insurance,1,10,1,Insurance charges,,,Insurance,G/L Account,
+misc_charge_codes_misc,Item,Charges,Jinasena_MasterData_Purchase.trf_charges_misc,1,10,1,Misc charges,,,Misc,G/L Account,
+misc_charge_codes_sup_bank_charge,Item,Charges,Jinasena_MasterData_Purchase.trf_charges_sup_bank_charge,1,10,1,Supplier's Bank Charges,,,Sup.Bank Charge,G/L Account,
+misc_charge_codes_pallet_charges,Item,Charges,Jinasena_MasterData_Purchase.trf_charges_pallet_charges,1,10,1,Pallet Charges,,,Pallet Charges,G/L Account,
+misc_charge_codes_document_charges,Item,Charges,Jinasena_MasterData_Purchase.trf_charges_document_charges,1,10,1,Document Charges,,,Document Charges,G/L Account,
+misc_charge_codes_other,Item,Charges,Jinasena_MasterData_Purchase.trf_charges_other,1,10,1,Other charges,,,Other,G/L Account,
+misc_charge_codes_bankcharge_179,Item,Charges,Jinasena_MasterData_Purchase.trf_charges_bankcharge_121,1,10,1,Bank charges,,,BankCharge,G/L Account,base.main_company
+misc_charge_codes_clearing_180,Item,Charges,Jinasena_MasterData_Purchase.trf_charges_clearing_122,1,10,1,Clearing charges,,,Clearing,G/L Account,base.main_company
+misc_charge_codes_freight_ex_work_181,Item,Charges,Jinasena_MasterData_Purchase.trf_charges_freight_ex_work_123,1,10,1,Freight charges,,,Freight & Ex work,G/L Account,base.main_company
+misc_charge_codes_insurance_182,Item,Charges,Jinasena_MasterData_Purchase.trf_charges_insurance_124,1,10,1,Insurance charges,,,Insurance,G/L Account,base.main_company
+misc_charge_codes_misc_183,Item,Charges,Jinasena_MasterData_Purchase.trf_charges_misc_125,1,10,1,Misc charges,,,Misc,G/L Account,base.main_company
+misc_charge_codes_sup_bank_charge_184,Item,Charges,Jinasena_MasterData_Purchase.trf_charges_sup_bank_charge_126,1,10,1,Supplier's Bank Charges,,,Sup.Bank Charge,G/L Account,base.main_company
+misc_charge_codes_pallet_charges_185,Item,Charges,Jinasena_MasterData_Purchase.trf_charges_pallet_charges_127,1,10,1,Pallet Charges,,,Pallet Charges,G/L Account,base.main_company
+misc_charge_codes_document_charges_186,Item,Charges,Jinasena_MasterData_Purchase.trf_charges_document_charges_128,1,10,1,Document Charges,,,Document Charges,G/L Account,base.main_company
+misc_charge_codes_other_187,Item,Charges,Jinasena_MasterData_Purchase.trf_charges_other_129,1,10,1,Other charges,,,Other,G/L Account,base.main_company

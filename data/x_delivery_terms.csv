@@ -1,18 +1,18 @@
 id,x_name,x_active,x_studio_sequence,x_studio_description,x_studio_copied,x_studio_vendor_despatch,x_studio_company_id/id
-delivery_terms_cfr,CFR,1,10,Cost and Freight,,,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-delivery_terms_fob,FOB,1,10,Free On Board,,1,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-delivery_terms_cif,CIF,1,10,Cost Insurance & Freight,1,1,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-delivery_terms_cip,CIP,1,10,Carriage & Insurance Paid To…,,1,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-delivery_terms_cpt,CPT,1,10,Carriage Paid to...,,,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-delivery_terms_cptpt,CPTPT,1,10,Carriage Paid to 3rd Party Transportation,,1,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-delivery_terms_daf,DAF,1,10,Delivered at Frontier,,1,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-delivery_terms_ddp,DDP,1,10,Delivered Duty Paid,,1,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-delivery_terms_ddu,DDU,1,10,Delivered Duty Unpaid,,1,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-delivery_terms_deq,DEQ,1,10,Delivered Ex Quay,,1,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-delivery_terms_des,DES,1,10,Delivered Ex Ship,,1,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-delivery_terms_exw,EXW,1,10,EX Works,,1,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-delivery_terms_fas,FAS,1,10,Free Alongside Ship,,1,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
-delivery_terms_fca,FCA,1,10,Free Carrier,,1,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd
+delivery_terms_cfr,CFR,1,10,Cost and Freight,,,
+delivery_terms_fob,FOB,1,10,Free On Board,,1,
+delivery_terms_cif,CIF,1,10,Cost Insurance & Freight,1,1,
+delivery_terms_cip,CIP,1,10,Carriage & Insurance Paid To…,,1,
+delivery_terms_cpt,CPT,1,10,Carriage Paid to...,,,
+delivery_terms_cptpt,CPTPT,1,10,Carriage Paid to 3rd Party Transportation,,1,
+delivery_terms_daf,DAF,1,10,Delivered at Frontier,,1,
+delivery_terms_ddp,DDP,1,10,Delivered Duty Paid,,1,
+delivery_terms_ddu,DDU,1,10,Delivered Duty Unpaid,,1,
+delivery_terms_deq,DEQ,1,10,Delivered Ex Quay,,1,
+delivery_terms_des,DES,1,10,Delivered Ex Ship,,1,
+delivery_terms_exw,EXW,1,10,EX Works,,1,
+delivery_terms_fas,FAS,1,10,Free Alongside Ship,,1,
+delivery_terms_fca,FCA,1,10,Free Carrier,,1,
 delivery_terms_cfr_81,CFR,1,10,Cost and Freight,,,base.main_company
 delivery_terms_fob_82,FOB,1,10,Free On Board,,1,base.main_company
 delivery_terms_cif_83,CIF,1,10,Cost Insurance & Freight,,,base.main_company
