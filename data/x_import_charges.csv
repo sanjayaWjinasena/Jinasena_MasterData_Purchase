@@ -1,45 +1,45 @@
-id,x_studio_company_id/id,x_active,x_studio_sequence,x_studio_charge_group,x_name,x_studio_charge_value,x_studio_duties_line_id/id,x_studio_taxes_line_id/id,x_studio_charges_line_id/id,x_studio_posting_type,x_studio_post_to_ledger,x_studio_ledger_account/id
-import_charges_cid,base.main_company,1,10,Duty,CID,0.0,Jinasena_MasterData_Purchase.trf_duty_cid,,,,1,
-import_charges_eic,base.main_company,1,10,Duty,EIC,0.0,Jinasena_MasterData_Purchase.trf_duty_eic,,,,1,
-import_charges_esc,base.main_company,1,10,Duty,ESC,0.0,Jinasena_MasterData_Purchase.trf_duty_esc,,,,1,
-import_charges_excise,base.main_company,1,10,Duty,Excise,0.0,Jinasena_MasterData_Purchase.trf_duty_excise,,,,1,
-import_charges_pal,base.main_company,1,10,Duty,PAL,0.0,Jinasena_MasterData_Purchase.trf_duty_pal,,,,1,
-import_charges_ridl,base.main_company,1,10,Duty,RIDL,0.0,Jinasena_MasterData_Purchase.trf_duty_ridl,,,,,
-import_charges_srl,base.main_company,1,10,Duty,SRL,0.0,Jinasena_MasterData_Purchase.trf_duty_srl,,,,,
-import_charges_surcharge,base.main_company,1,10,Duty,Surcharge,0.0,Jinasena_MasterData_Purchase.trf_duty_surcharge,,,,1,
-import_charges_cid_122,,1,10,Duty,CID,0.0,Jinasena_MasterData_Purchase.trf_duty_cid_49,,,Purchase Misc. Charges Duty,1,Jinasena_MasterData_Accounting.account_account_expenses_transport
-import_charges_eic_123,,1,10,Duty,EIC,0.0,Jinasena_MasterData_Purchase.trf_duty_eic_50,,,Purchase Misc. Charges Duty,1,Jinasena_MasterData_Accounting.account_account_expenses_transport
-import_charges_esc_124,,1,10,Duty,ESC,0.0,Jinasena_MasterData_Purchase.trf_duty_esc_51,,,Purchase Misc. Charges Duty,1,Jinasena_MasterData_Accounting.account_account_expenses_transport
-import_charges_excise_125,,1,10,Duty,Excise,0.0,Jinasena_MasterData_Purchase.trf_duty_excise_52,,,Purchase Misc. Charges Duty,1,Jinasena_MasterData_Accounting.account_account_expenses_transport
-import_charges_pal_126,,1,10,Duty,PAL,0.0,Jinasena_MasterData_Purchase.trf_duty_pal_53,,,Purchase Misc. Charges Duty,1,Jinasena_MasterData_Accounting.account_account_expenses_transport
-import_charges_ridl_127,,1,10,Duty,RIDL,0.0,Jinasena_MasterData_Purchase.trf_duty_ridl_54,,,Purchase Misc. Charges Duty,1,Jinasena_MasterData_Accounting.account_account_expenses_transport
-import_charges_srl_128,,1,10,Duty,SRL,0.0,Jinasena_MasterData_Purchase.trf_duty_srl_55,,,Purchase Misc. Charges Duty,1,Jinasena_MasterData_Accounting.account_account_expenses_transport
-import_charges_surcharge_129,,1,10,Duty,Surcharge,0.0,Jinasena_MasterData_Purchase.trf_duty_surcharge_56,,,Purchase Misc. Charges Duty,1,Jinasena_MasterData_Accounting.account_account_expenses_transport
-import_charges_nbt,base.main_company,1,10,Taxes,NBT,0.0,,Jinasena_MasterData_Purchase.trf_taxes_nbt,,,,
-import_charges_nbt_n,base.main_company,1,10,Taxes,NBT-N,0.0,,Jinasena_MasterData_Purchase.trf_taxes_nbt_n,,,,
-import_charges_vat_on_item,base.main_company,1,10,Taxes,VAT-on-Item,0.0,,Jinasena_MasterData_Purchase.trf_taxes_vat_on_item,,,,
-import_charges_vat_on_gl,base.main_company,1,10,Taxes,VAT-on-GL,0.0,,Jinasena_MasterData_Purchase.trf_taxes_vat_on_gl,,,,
-import_charges_sscl,base.main_company,1,10,Taxes,SSCL,0.0,,Jinasena_MasterData_Purchase.trf_taxes_sscl,,,,
-import_charges_nbt_158,,1,10,Taxes,NBT,0.0,,Jinasena_MasterData_Purchase.trf_taxes_nbt_75,,"Purchase, Packing Slip Tax",1,Jinasena_MasterData_Accounting.account_account_expenses_transport
-import_charges_nbt_n_159,,1,10,Taxes,NBT-N,0.0,,Jinasena_MasterData_Purchase.trf_taxes_nbt_n_76,,"Purchase, Packing Slip Tax",1,Jinasena_MasterData_Accounting.account_account_expenses_transport
-import_charges_vat_on_item_160,,1,10,Taxes,VAT-on-Item,0.0,,Jinasena_MasterData_Purchase.trf_taxes_vat_on_item_77,,"Purchase, Packing Slip Tax",1,Jinasena_MasterData_Accounting.account_account_expenses_transport
-import_charges_vat_on_gl_161,,1,10,Taxes,VAT-on-GL,0.0,,Jinasena_MasterData_Purchase.trf_taxes_vat_on_gl_78,,"Purchase, Packing Slip Tax",1,Jinasena_MasterData_Accounting.account_account_expenses_transport
-import_charges_sscl_162,,1,10,Taxes,SSCL,0.0,,Jinasena_MasterData_Purchase.trf_taxes_sscl_79,,"Purchase, Packing Slip Tax",1,Jinasena_MasterData_Accounting.account_account_expenses_transport
-import_charges_bankcharge,,1,10,Charges,BankCharge,0.0,,,Jinasena_MasterData_Purchase.trf_charges_bankcharge,"Purchase, Charge",1,Jinasena_MasterData_Accounting.account_account_bank_charges
-import_charges_clearing,,1,10,Charges,Clearing,0.0,,,Jinasena_MasterData_Purchase.trf_charges_clearing,"Purchase, Charge",1,Jinasena_MasterData_Accounting.account_account_interim_a_c_for_expenses_clearing_charge
-import_charges_freight_ex_work,,1,10,Charges,Freight & Ex work,0.0,,,Jinasena_MasterData_Purchase.trf_charges_freight_ex_work,"Purchase, Charge",1,Jinasena_MasterData_Accounting.account_account_expenses_transport
-import_charges_insurance,,1,10,Charges,Insurance,0.0,,,Jinasena_MasterData_Purchase.trf_charges_insurance,"Purchase, Charge",1,Jinasena_MasterData_Accounting.account_account_general_insurance
-import_charges_misc,,1,10,Charges,Misc,0.0,,,Jinasena_MasterData_Purchase.trf_charges_misc,"Purchase, Charge",1,Jinasena_MasterData_Accounting.account_account_interim_a_c_for_expenses_customs_other_c
-import_charges_sup_bank_charge,,1,10,Charges,Sup.Bank Charge,0.0,,,Jinasena_MasterData_Purchase.trf_charges_sup_bank_charge,"Purchase, Charge",1,Jinasena_MasterData_Accounting.account_account_expenses_transport
-import_charges_pallet_charges,,1,10,Charges,Pallet Charges,0.0,,,Jinasena_MasterData_Purchase.trf_charges_pallet_charges,"Purchase, Charge",1,Jinasena_MasterData_Accounting.account_account_expenses_transport
-import_charges_document_charges,,1,10,Charges,Document Charges,0.0,,,Jinasena_MasterData_Purchase.trf_charges_document_charges,"Purchase, Charge",1,Jinasena_MasterData_Accounting.account_account_creditors_control_imports
-import_charges_other,,1,10,Charges,Other,0.0,,,Jinasena_MasterData_Purchase.trf_charges_other,"Purchase, Charge",1,Jinasena_MasterData_Accounting.account_account_interim_a_c_for_expenses_customs_other_c
-import_charges_bankcharge_182,base.main_company,1,10,Charges,BankCharge,0.0,,,Jinasena_MasterData_Purchase.trf_charges_bankcharge_121,,1,
-import_charges_clearing_183,base.main_company,1,10,Charges,Clearing,0.0,,,Jinasena_MasterData_Purchase.trf_charges_clearing_122,,1,
-import_charges_freight_ex_work_184,base.main_company,1,10,Charges,Freight & Ex work,0.0,,,Jinasena_MasterData_Purchase.trf_charges_freight_ex_work_123,,1,
-import_charges_insurance_185,base.main_company,1,10,Charges,Insurance,0.0,,,Jinasena_MasterData_Purchase.trf_charges_insurance_124,,1,
-import_charges_misc_186,base.main_company,1,10,Charges,Misc,0.0,,,Jinasena_MasterData_Purchase.trf_charges_misc_125,,1,
-import_charges_sup_bank_charge_187,base.main_company,1,10,Charges,Sup.Bank Charge,0.0,,,Jinasena_MasterData_Purchase.trf_charges_sup_bank_charge_126,,1,
-import_charges_pallet_charges_188,base.main_company,1,10,Charges,Pallet Charges,0.0,,,Jinasena_MasterData_Purchase.trf_charges_pallet_charges_127,,1,
-import_charges_document_charges_189,base.main_company,1,10,Charges,Document Charges,0.0,,,Jinasena_MasterData_Purchase.trf_charges_document_charges_128,,1,
-import_charges_other_190,base.main_company,1,10,Charges,Other,0.0,,,Jinasena_MasterData_Purchase.trf_charges_other_129,,1,
+id,x_studio_company_id/id,x_active,x_studio_sequence,x_studio_charge_group,x_name,x_studio_charge_value,x_studio_duties_line_id/id,x_studio_taxes_line_id/id,x_studio_charges_line_id/id,x_studio_posting_type,x_studio_post_to_ledger
+import_charges_cid,base.main_company,1,10,Duty,CID,0.0,Jinasena_MasterData_Purchase.trf_duty_cid,,,,1
+import_charges_eic,base.main_company,1,10,Duty,EIC,0.0,Jinasena_MasterData_Purchase.trf_duty_eic,,,,1
+import_charges_esc,base.main_company,1,10,Duty,ESC,0.0,Jinasena_MasterData_Purchase.trf_duty_esc,,,,1
+import_charges_excise,base.main_company,1,10,Duty,Excise,0.0,Jinasena_MasterData_Purchase.trf_duty_excise,,,,1
+import_charges_pal,base.main_company,1,10,Duty,PAL,0.0,Jinasena_MasterData_Purchase.trf_duty_pal,,,,1
+import_charges_ridl,base.main_company,1,10,Duty,RIDL,0.0,Jinasena_MasterData_Purchase.trf_duty_ridl,,,,
+import_charges_srl,base.main_company,1,10,Duty,SRL,0.0,Jinasena_MasterData_Purchase.trf_duty_srl,,,,
+import_charges_surcharge,base.main_company,1,10,Duty,Surcharge,0.0,Jinasena_MasterData_Purchase.trf_duty_surcharge,,,,1
+import_charges_cid_122,,1,10,Duty,CID,0.0,Jinasena_MasterData_Purchase.trf_duty_cid_49,,,Purchase Misc. Charges Duty,1
+import_charges_eic_123,,1,10,Duty,EIC,0.0,Jinasena_MasterData_Purchase.trf_duty_eic_50,,,Purchase Misc. Charges Duty,1
+import_charges_esc_124,,1,10,Duty,ESC,0.0,Jinasena_MasterData_Purchase.trf_duty_esc_51,,,Purchase Misc. Charges Duty,1
+import_charges_excise_125,,1,10,Duty,Excise,0.0,Jinasena_MasterData_Purchase.trf_duty_excise_52,,,Purchase Misc. Charges Duty,1
+import_charges_pal_126,,1,10,Duty,PAL,0.0,Jinasena_MasterData_Purchase.trf_duty_pal_53,,,Purchase Misc. Charges Duty,1
+import_charges_ridl_127,,1,10,Duty,RIDL,0.0,Jinasena_MasterData_Purchase.trf_duty_ridl_54,,,Purchase Misc. Charges Duty,1
+import_charges_srl_128,,1,10,Duty,SRL,0.0,Jinasena_MasterData_Purchase.trf_duty_srl_55,,,Purchase Misc. Charges Duty,1
+import_charges_surcharge_129,,1,10,Duty,Surcharge,0.0,Jinasena_MasterData_Purchase.trf_duty_surcharge_56,,,Purchase Misc. Charges Duty,1
+import_charges_nbt,base.main_company,1,10,Taxes,NBT,0.0,,Jinasena_MasterData_Purchase.trf_taxes_nbt,,,
+import_charges_nbt_n,base.main_company,1,10,Taxes,NBT-N,0.0,,Jinasena_MasterData_Purchase.trf_taxes_nbt_n,,,
+import_charges_vat_on_item,base.main_company,1,10,Taxes,VAT-on-Item,0.0,,Jinasena_MasterData_Purchase.trf_taxes_vat_on_item,,,
+import_charges_vat_on_gl,base.main_company,1,10,Taxes,VAT-on-GL,0.0,,Jinasena_MasterData_Purchase.trf_taxes_vat_on_gl,,,
+import_charges_sscl,base.main_company,1,10,Taxes,SSCL,0.0,,Jinasena_MasterData_Purchase.trf_taxes_sscl,,,
+import_charges_nbt_158,,1,10,Taxes,NBT,0.0,,Jinasena_MasterData_Purchase.trf_taxes_nbt_75,,"Purchase, Packing Slip Tax",1
+import_charges_nbt_n_159,,1,10,Taxes,NBT-N,0.0,,Jinasena_MasterData_Purchase.trf_taxes_nbt_n_76,,"Purchase, Packing Slip Tax",1
+import_charges_vat_on_item_160,,1,10,Taxes,VAT-on-Item,0.0,,Jinasena_MasterData_Purchase.trf_taxes_vat_on_item_77,,"Purchase, Packing Slip Tax",1
+import_charges_vat_on_gl_161,,1,10,Taxes,VAT-on-GL,0.0,,Jinasena_MasterData_Purchase.trf_taxes_vat_on_gl_78,,"Purchase, Packing Slip Tax",1
+import_charges_sscl_162,,1,10,Taxes,SSCL,0.0,,Jinasena_MasterData_Purchase.trf_taxes_sscl_79,,"Purchase, Packing Slip Tax",1
+import_charges_bankcharge,,1,10,Charges,BankCharge,0.0,,,Jinasena_MasterData_Purchase.trf_charges_bankcharge,"Purchase, Charge",1
+import_charges_clearing,,1,10,Charges,Clearing,0.0,,,Jinasena_MasterData_Purchase.trf_charges_clearing,"Purchase, Charge",1
+import_charges_freight_ex_work,,1,10,Charges,Freight & Ex work,0.0,,,Jinasena_MasterData_Purchase.trf_charges_freight_ex_work,"Purchase, Charge",1
+import_charges_insurance,,1,10,Charges,Insurance,0.0,,,Jinasena_MasterData_Purchase.trf_charges_insurance,"Purchase, Charge",1
+import_charges_misc,,1,10,Charges,Misc,0.0,,,Jinasena_MasterData_Purchase.trf_charges_misc,"Purchase, Charge",1
+import_charges_sup_bank_charge,,1,10,Charges,Sup.Bank Charge,0.0,,,Jinasena_MasterData_Purchase.trf_charges_sup_bank_charge,"Purchase, Charge",1
+import_charges_pallet_charges,,1,10,Charges,Pallet Charges,0.0,,,Jinasena_MasterData_Purchase.trf_charges_pallet_charges,"Purchase, Charge",1
+import_charges_document_charges,,1,10,Charges,Document Charges,0.0,,,Jinasena_MasterData_Purchase.trf_charges_document_charges,"Purchase, Charge",1
+import_charges_other,,1,10,Charges,Other,0.0,,,Jinasena_MasterData_Purchase.trf_charges_other,"Purchase, Charge",1
+import_charges_bankcharge_182,base.main_company,1,10,Charges,BankCharge,0.0,,,Jinasena_MasterData_Purchase.trf_charges_bankcharge_121,,1
+import_charges_clearing_183,base.main_company,1,10,Charges,Clearing,0.0,,,Jinasena_MasterData_Purchase.trf_charges_clearing_122,,1
+import_charges_freight_ex_work_184,base.main_company,1,10,Charges,Freight & Ex work,0.0,,,Jinasena_MasterData_Purchase.trf_charges_freight_ex_work_123,,1
+import_charges_insurance_185,base.main_company,1,10,Charges,Insurance,0.0,,,Jinasena_MasterData_Purchase.trf_charges_insurance_124,,1
+import_charges_misc_186,base.main_company,1,10,Charges,Misc,0.0,,,Jinasena_MasterData_Purchase.trf_charges_misc_125,,1
+import_charges_sup_bank_charge_187,base.main_company,1,10,Charges,Sup.Bank Charge,0.0,,,Jinasena_MasterData_Purchase.trf_charges_sup_bank_charge_126,,1
+import_charges_pallet_charges_188,base.main_company,1,10,Charges,Pallet Charges,0.0,,,Jinasena_MasterData_Purchase.trf_charges_pallet_charges_127,,1
+import_charges_document_charges_189,base.main_company,1,10,Charges,Document Charges,0.0,,,Jinasena_MasterData_Purchase.trf_charges_document_charges_128,,1
+import_charges_other_190,base.main_company,1,10,Charges,Other,0.0,,,Jinasena_MasterData_Purchase.trf_charges_other_129,,1
