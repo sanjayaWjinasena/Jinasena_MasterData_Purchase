@@ -1,12 +1,12 @@
 id,x_studio_company_id/id,x_active,x_studio_sequence,x_studio_charge_group,x_name,x_studio_charge_value,x_studio_posting_type,x_studio_post_to_ledger,x_studio_ledger_account/id
-import_charges_cid,,1,10,Duty,CID,0.0,,1,
-import_charges_eic,,1,10,Duty,EIC,0.0,,1,
-import_charges_esc,,1,10,Duty,ESC,0.0,,1,
-import_charges_excise,,1,10,Duty,Excise,0.0,,1,
-import_charges_pal,,1,10,Duty,PAL,0.0,,1,
-import_charges_ridl,,1,10,Duty,RIDL,0.0,,,
-import_charges_srl,,1,10,Duty,SRL,0.0,,,
-import_charges_surcharge,,1,10,Duty,Surcharge,0.0,,1,
+import_charges_cid,base.main_company,1,10,Duty,CID,0.0,,1,
+import_charges_eic,base.main_company,1,10,Duty,EIC,0.0,,1,
+import_charges_esc,base.main_company,1,10,Duty,ESC,0.0,,1,
+import_charges_excise,base.main_company,1,10,Duty,Excise,0.0,,1,
+import_charges_pal,base.main_company,1,10,Duty,PAL,0.0,,1,
+import_charges_ridl,base.main_company,1,10,Duty,RIDL,0.0,,,
+import_charges_srl,base.main_company,1,10,Duty,SRL,0.0,,,
+import_charges_surcharge,base.main_company,1,10,Duty,Surcharge,0.0,,1,
 import_charges_cid_122,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,1,10,Duty,CID,0.0,Purchase Misc. Charges Duty,1,Jinasena_MasterData_Accounting.account_account_expenses_transport
 import_charges_eic_123,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,1,10,Duty,EIC,0.0,Purchase Misc. Charges Duty,1,Jinasena_MasterData_Accounting.account_account_expenses_transport
 import_charges_esc_124,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,1,10,Duty,ESC,0.0,Purchase Misc. Charges Duty,1,Jinasena_MasterData_Accounting.account_account_expenses_transport
@@ -15,11 +15,11 @@ import_charges_pal_126,Jinasena_MasterData_Common.res_company_jinasena_agricultu
 import_charges_ridl_127,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,1,10,Duty,RIDL,0.0,Purchase Misc. Charges Duty,1,Jinasena_MasterData_Accounting.account_account_expenses_transport
 import_charges_srl_128,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,1,10,Duty,SRL,0.0,Purchase Misc. Charges Duty,1,Jinasena_MasterData_Accounting.account_account_expenses_transport
 import_charges_surcharge_129,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,1,10,Duty,Surcharge,0.0,Purchase Misc. Charges Duty,1,Jinasena_MasterData_Accounting.account_account_expenses_transport
-import_charges_nbt,,1,10,Taxes,NBT,0.0,,,
-import_charges_nbt_n,,1,10,Taxes,NBT-N,0.0,,,
-import_charges_vat_on_item,,1,10,Taxes,VAT-on-Item,0.0,,,
-import_charges_vat_on_gl,,1,10,Taxes,VAT-on-GL,0.0,,,
-import_charges_sscl,,1,10,Taxes,SSCL,0.0,,,
+import_charges_nbt,base.main_company,1,10,Taxes,NBT,0.0,,,
+import_charges_nbt_n,base.main_company,1,10,Taxes,NBT-N,0.0,,,
+import_charges_vat_on_item,base.main_company,1,10,Taxes,VAT-on-Item,0.0,,,
+import_charges_vat_on_gl,base.main_company,1,10,Taxes,VAT-on-GL,0.0,,,
+import_charges_sscl,base.main_company,1,10,Taxes,SSCL,0.0,,,
 import_charges_nbt_158,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,1,10,Taxes,NBT,0.0,"Purchase, Packing Slip Tax",1,Jinasena_MasterData_Accounting.account_account_expenses_transport
 import_charges_nbt_n_159,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,1,10,Taxes,NBT-N,0.0,"Purchase, Packing Slip Tax",1,Jinasena_MasterData_Accounting.account_account_expenses_transport
 import_charges_vat_on_item_160,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,1,10,Taxes,VAT-on-Item,0.0,"Purchase, Packing Slip Tax",1,Jinasena_MasterData_Accounting.account_account_expenses_transport
@@ -34,12 +34,12 @@ import_charges_sup_bank_charge,Jinasena_MasterData_Common.res_company_jinasena_a
 import_charges_pallet_charges,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,1,10,Charges,Pallet Charges,0.0,"Purchase, Charge",1,Jinasena_MasterData_Accounting.account_account_expenses_transport
 import_charges_document_charges,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,1,10,Charges,Document Charges,0.0,"Purchase, Charge",1,Jinasena_MasterData_Accounting.account_account_creditors_control_imports
 import_charges_other,Jinasena_MasterData_Common.res_company_jinasena_agricultural_machinery_pvt_ltd,1,10,Charges,Other,0.0,"Purchase, Charge",1,Jinasena_MasterData_Accounting.account_account_interim_a_c_for_expenses_customs_other_c
-import_charges_bankcharge_182,,1,10,Charges,BankCharge,0.0,,1,
-import_charges_clearing_183,,1,10,Charges,Clearing,0.0,,1,
-import_charges_freight_ex_work_184,,1,10,Charges,Freight & Ex work,0.0,,1,
-import_charges_insurance_185,,1,10,Charges,Insurance,0.0,,1,
-import_charges_misc_186,,1,10,Charges,Misc,0.0,,1,
-import_charges_sup_bank_charge_187,,1,10,Charges,Sup.Bank Charge,0.0,,1,
-import_charges_pallet_charges_188,,1,10,Charges,Pallet Charges,0.0,,1,
-import_charges_document_charges_189,,1,10,Charges,Document Charges,0.0,,1,
-import_charges_other_190,,1,10,Charges,Other,0.0,,1,
+import_charges_bankcharge_182,base.main_company,1,10,Charges,BankCharge,0.0,,1,
+import_charges_clearing_183,base.main_company,1,10,Charges,Clearing,0.0,,1,
+import_charges_freight_ex_work_184,base.main_company,1,10,Charges,Freight & Ex work,0.0,,1,
+import_charges_insurance_185,base.main_company,1,10,Charges,Insurance,0.0,,1,
+import_charges_misc_186,base.main_company,1,10,Charges,Misc,0.0,,1,
+import_charges_sup_bank_charge_187,base.main_company,1,10,Charges,Sup.Bank Charge,0.0,,1,
+import_charges_pallet_charges_188,base.main_company,1,10,Charges,Pallet Charges,0.0,,1,
+import_charges_document_charges_189,base.main_company,1,10,Charges,Document Charges,0.0,,1,
+import_charges_other_190,base.main_company,1,10,Charges,Other,0.0,,1,
