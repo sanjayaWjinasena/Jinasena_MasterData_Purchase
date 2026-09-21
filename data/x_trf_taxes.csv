@@ -1,9 +1,9 @@
 id,x_name,x_active,x_studio_sequence,x_studio_description,x_studio_company_id/id
-trf_taxes_nbt,NBT,1,10,NBT Tax Applicable,base.main_company
-trf_taxes_nbt_n,NBT-N,1,10,NBT Tax not Applicable,base.main_company
-trf_taxes_vat_on_item,VAT-on-Item,1,10,Value Added Tax - Loaded on Items.,base.main_company
-trf_taxes_vat_on_gl,VAT-on-GL,1,10,Value Added Tax - Loaded on GL.,base.main_company
-trf_taxes_sscl,SSCL,1,10,Social Security Contribution Levy,base.main_company
+trf_taxes_nbt,NBT,1,10,NBT Tax Applicable,seed_master_data_and_settings.company_jinasena_pvt_ltd
+trf_taxes_nbt_n,NBT-N,1,10,NBT Tax not Applicable,seed_master_data_and_settings.company_jinasena_pvt_ltd
+trf_taxes_vat_on_item,VAT-on-Item,1,10,Value Added Tax - Loaded on Items.,seed_master_data_and_settings.company_jinasena_pvt_ltd
+trf_taxes_vat_on_gl,VAT-on-GL,1,10,Value Added Tax - Loaded on GL.,seed_master_data_and_settings.company_jinasena_pvt_ltd
+trf_taxes_sscl,SSCL,1,10,Social Security Contribution Levy,seed_master_data_and_settings.company_jinasena_pvt_ltd
 trf_taxes_nbt_75,NBT,1,10,NBT Tax Applicable,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 trf_taxes_nbt_n_76,NBT-N,1,10,NBT Tax not Applicable,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 trf_taxes_vat_on_item_77,VAT-on-Item,1,10,Value Added Tax - Loaded on Items.,seed_master_data_and_settings.company_jinasena_agricultural_machinery

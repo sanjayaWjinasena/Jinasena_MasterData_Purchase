@@ -1,12 +1,12 @@
 id,x_studio_company_id/id,x_active,x_studio_sequence,x_studio_charge_group,x_name,x_studio_charge_value,x_studio_posting_type,x_studio_post_to_ledger
-import_charges_cid,base.main_company,1,10,Duty,CID,0.0,,1
-import_charges_eic,base.main_company,1,10,Duty,EIC,0.0,,1
-import_charges_esc,base.main_company,1,10,Duty,ESC,0.0,,1
-import_charges_excise,base.main_company,1,10,Duty,Excise,0.0,,1
-import_charges_pal,base.main_company,1,10,Duty,PAL,0.0,,1
-import_charges_ridl,base.main_company,1,10,Duty,RIDL,0.0,,
-import_charges_srl,base.main_company,1,10,Duty,SRL,0.0,,
-import_charges_surcharge,base.main_company,1,10,Duty,Surcharge,0.0,,1
+import_charges_cid,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Duty,CID,0.0,,1
+import_charges_eic,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Duty,EIC,0.0,,1
+import_charges_esc,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Duty,ESC,0.0,,1
+import_charges_excise,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Duty,Excise,0.0,,1
+import_charges_pal,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Duty,PAL,0.0,,1
+import_charges_ridl,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Duty,RIDL,0.0,,
+import_charges_srl,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Duty,SRL,0.0,,
+import_charges_surcharge,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Duty,Surcharge,0.0,,1
 import_charges_cid_122,seed_master_data_and_settings.company_jinasena_agricultural_machinery,1,10,Duty,CID,0.0,Purchase Misc. Charges Duty,1
 import_charges_eic_123,seed_master_data_and_settings.company_jinasena_agricultural_machinery,1,10,Duty,EIC,0.0,Purchase Misc. Charges Duty,1
 import_charges_esc_124,seed_master_data_and_settings.company_jinasena_agricultural_machinery,1,10,Duty,ESC,0.0,Purchase Misc. Charges Duty,1
@@ -15,11 +15,11 @@ import_charges_pal_126,seed_master_data_and_settings.company_jinasena_agricultur
 import_charges_ridl_127,seed_master_data_and_settings.company_jinasena_agricultural_machinery,1,10,Duty,RIDL,0.0,Purchase Misc. Charges Duty,1
 import_charges_srl_128,seed_master_data_and_settings.company_jinasena_agricultural_machinery,1,10,Duty,SRL,0.0,Purchase Misc. Charges Duty,1
 import_charges_surcharge_129,seed_master_data_and_settings.company_jinasena_agricultural_machinery,1,10,Duty,Surcharge,0.0,Purchase Misc. Charges Duty,1
-import_charges_nbt,base.main_company,1,10,Taxes,NBT,0.0,,
-import_charges_nbt_n,base.main_company,1,10,Taxes,NBT-N,0.0,,
-import_charges_vat_on_item,base.main_company,1,10,Taxes,VAT-on-Item,0.0,,
-import_charges_vat_on_gl,base.main_company,1,10,Taxes,VAT-on-GL,0.0,,
-import_charges_sscl,base.main_company,1,10,Taxes,SSCL,0.0,,
+import_charges_nbt,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Taxes,NBT,0.0,,
+import_charges_nbt_n,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Taxes,NBT-N,0.0,,
+import_charges_vat_on_item,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Taxes,VAT-on-Item,0.0,,
+import_charges_vat_on_gl,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Taxes,VAT-on-GL,0.0,,
+import_charges_sscl,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Taxes,SSCL,0.0,,
 import_charges_nbt_158,seed_master_data_and_settings.company_jinasena_agricultural_machinery,1,10,Taxes,NBT,0.0,"Purchase, Packing Slip Tax",1
 import_charges_nbt_n_159,seed_master_data_and_settings.company_jinasena_agricultural_machinery,1,10,Taxes,NBT-N,0.0,"Purchase, Packing Slip Tax",1
 import_charges_vat_on_item_160,seed_master_data_and_settings.company_jinasena_agricultural_machinery,1,10,Taxes,VAT-on-Item,0.0,"Purchase, Packing Slip Tax",1
@@ -34,12 +34,12 @@ import_charges_sup_bank_charge,seed_master_data_and_settings.company_jinasena_ag
 import_charges_pallet_charges,seed_master_data_and_settings.company_jinasena_agricultural_machinery,1,10,Charges,Pallet Charges,0.0,"Purchase, Charge",1
 import_charges_document_charges,seed_master_data_and_settings.company_jinasena_agricultural_machinery,1,10,Charges,Document Charges,0.0,"Purchase, Charge",1
 import_charges_other,seed_master_data_and_settings.company_jinasena_agricultural_machinery,1,10,Charges,Other,0.0,"Purchase, Charge",1
-import_charges_bankcharge_182,base.main_company,1,10,Charges,BankCharge,0.0,,1
-import_charges_clearing_183,base.main_company,1,10,Charges,Clearing,0.0,,1
-import_charges_freight_ex_work_184,base.main_company,1,10,Charges,Freight & Ex work,0.0,,1
-import_charges_insurance_185,base.main_company,1,10,Charges,Insurance,0.0,,1
-import_charges_misc_186,base.main_company,1,10,Charges,Misc,0.0,,1
-import_charges_sup_bank_charge_187,base.main_company,1,10,Charges,Sup.Bank Charge,0.0,,1
-import_charges_pallet_charges_188,base.main_company,1,10,Charges,Pallet Charges,0.0,,1
-import_charges_document_charges_189,base.main_company,1,10,Charges,Document Charges,0.0,,1
-import_charges_other_190,base.main_company,1,10,Charges,Other,0.0,,1
+import_charges_bankcharge_182,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Charges,BankCharge,0.0,,1
+import_charges_clearing_183,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Charges,Clearing,0.0,,1
+import_charges_freight_ex_work_184,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Charges,Freight & Ex work,0.0,,1
+import_charges_insurance_185,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Charges,Insurance,0.0,,1
+import_charges_misc_186,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Charges,Misc,0.0,,1
+import_charges_sup_bank_charge_187,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Charges,Sup.Bank Charge,0.0,,1
+import_charges_pallet_charges_188,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Charges,Pallet Charges,0.0,,1
+import_charges_document_charges_189,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Charges,Document Charges,0.0,,1
+import_charges_other_190,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Charges,Other,0.0,,1

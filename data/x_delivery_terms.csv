@@ -13,17 +13,17 @@ delivery_terms_des,DES,1,10,Delivered Ex Ship,,1,seed_master_data_and_settings.c
 delivery_terms_exw,EXW,1,10,EX Works,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 delivery_terms_fas,FAS,1,10,Free Alongside Ship,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 delivery_terms_fca,FCA,1,10,Free Carrier,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-delivery_terms_cfr_81,CFR,1,10,Cost and Freight,,,base.main_company
-delivery_terms_fob_82,FOB,1,10,Free On Board,,1,base.main_company
-delivery_terms_cif_83,CIF,1,10,Cost Insurance & Freight,,,base.main_company
-delivery_terms_cip_84,CIP,1,10,Carriage & Insurance Paid To…,,1,base.main_company
-delivery_terms_cpt_85,CPT,1,10,Carriage Paid to...,,,base.main_company
-delivery_terms_cptpt_86,CPTPT,1,10,Carriage Paid to 3rd Party Transportation,,1,base.main_company
-delivery_terms_daf_87,DAF,1,10,Delivered at Frontier,,1,base.main_company
-delivery_terms_ddp_88,DDP,1,10,Delivered Duty Paid,,1,base.main_company
-delivery_terms_ddu_89,DDU,1,10,Delivered Duty Unpaid,,1,base.main_company
-delivery_terms_deq_90,DEQ,1,10,Delivered Ex Quay,,1,base.main_company
-delivery_terms_des_91,DES,1,10,Delivered Ex Ship,,1,base.main_company
-delivery_terms_exw_92,EXW,1,10,EX Works,,1,base.main_company
-delivery_terms_fas_93,FAS,1,10,Free Alongside Ship,,1,base.main_company
-delivery_terms_fca_94,FCA,1,10,Free Carrier,,1,base.main_company
+delivery_terms_cfr_81,CFR,1,10,Cost and Freight,,,seed_master_data_and_settings.company_jinasena_pvt_ltd
+delivery_terms_fob_82,FOB,1,10,Free On Board,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+delivery_terms_cif_83,CIF,1,10,Cost Insurance & Freight,,,seed_master_data_and_settings.company_jinasena_pvt_ltd
+delivery_terms_cip_84,CIP,1,10,Carriage & Insurance Paid To…,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+delivery_terms_cpt_85,CPT,1,10,Carriage Paid to...,,,seed_master_data_and_settings.company_jinasena_pvt_ltd
+delivery_terms_cptpt_86,CPTPT,1,10,Carriage Paid to 3rd Party Transportation,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+delivery_terms_daf_87,DAF,1,10,Delivered at Frontier,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+delivery_terms_ddp_88,DDP,1,10,Delivered Duty Paid,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+delivery_terms_ddu_89,DDU,1,10,Delivered Duty Unpaid,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+delivery_terms_deq_90,DEQ,1,10,Delivered Ex Quay,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+delivery_terms_des_91,DES,1,10,Delivered Ex Ship,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+delivery_terms_exw_92,EXW,1,10,EX Works,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+delivery_terms_fas_93,FAS,1,10,Free Alongside Ship,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
+delivery_terms_fca_94,FCA,1,10,Free Carrier,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd

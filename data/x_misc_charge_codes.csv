@@ -1,12 +1,12 @@
 id,x_active,x_studio_sequence,x_studio_system_entry,x_studio_description,x_name,x_studio_company_id/id
-misc_charge_codes_cid,1,10,1,Customs Duty,CID,base.main_company
-misc_charge_codes_eic,1,10,1,Cess Levy,EIC,base.main_company
-misc_charge_codes_esc,1,10,1,Economic Service Charge,ESC,base.main_company
-misc_charge_codes_excise,1,10,1,Excise Duty,Excise,base.main_company
-misc_charge_codes_pal,1,10,1,Port and Airport Development Levy,PAL,base.main_company
-misc_charge_codes_ridl,1,10,1,Regional Infrastructure Development Levy,RIDL,base.main_company
-misc_charge_codes_srl,1,10,1,Social responsibility Levy,SRL,base.main_company
-misc_charge_codes_surcharge,1,10,1,Surcharge,Surcharge,base.main_company
+misc_charge_codes_cid,1,10,1,Customs Duty,CID,seed_master_data_and_settings.company_jinasena_pvt_ltd
+misc_charge_codes_eic,1,10,1,Cess Levy,EIC,seed_master_data_and_settings.company_jinasena_pvt_ltd
+misc_charge_codes_esc,1,10,1,Economic Service Charge,ESC,seed_master_data_and_settings.company_jinasena_pvt_ltd
+misc_charge_codes_excise,1,10,1,Excise Duty,Excise,seed_master_data_and_settings.company_jinasena_pvt_ltd
+misc_charge_codes_pal,1,10,1,Port and Airport Development Levy,PAL,seed_master_data_and_settings.company_jinasena_pvt_ltd
+misc_charge_codes_ridl,1,10,1,Regional Infrastructure Development Levy,RIDL,seed_master_data_and_settings.company_jinasena_pvt_ltd
+misc_charge_codes_srl,1,10,1,Social responsibility Levy,SRL,seed_master_data_and_settings.company_jinasena_pvt_ltd
+misc_charge_codes_surcharge,1,10,1,Surcharge,Surcharge,seed_master_data_and_settings.company_jinasena_pvt_ltd
 misc_charge_codes_cid_119,1,10,1,Customs Duty,CID,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 misc_charge_codes_eic_120,1,10,1,Cess Levy,EIC,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 misc_charge_codes_esc_121,1,10,1,Economic Service Charge,ESC,seed_master_data_and_settings.company_jinasena_agricultural_machinery
@@ -15,11 +15,11 @@ misc_charge_codes_pal_123,1,10,1,Port and Airport Development Levy,PAL,seed_mast
 misc_charge_codes_ridl_124,1,10,1,Regional Infrastructure Development Levy,RIDL,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 misc_charge_codes_srl_125,1,10,1,Social responsibility Levy,SRL,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 misc_charge_codes_surcharge_126,1,10,1,Surcharge,Surcharge,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-misc_charge_codes_nbt,1,10,1,NBT Tax Applicable,NBT,base.main_company
-misc_charge_codes_nbt_n,1,10,1,NBT Tax not Applicable,NBT-N,base.main_company
-misc_charge_codes_vat_on_item,1,10,1,Value Added Tax - Loaded on Items.,VAT-on-Item,base.main_company
-misc_charge_codes_vat_on_gl,1,10,1,Value Added Tax - Loaded on GL.,VAT-on-GL,base.main_company
-misc_charge_codes_sscl,1,10,1,Social Security Contribution Levy,SSCL,base.main_company
+misc_charge_codes_nbt,1,10,1,NBT Tax Applicable,NBT,seed_master_data_and_settings.company_jinasena_pvt_ltd
+misc_charge_codes_nbt_n,1,10,1,NBT Tax not Applicable,NBT-N,seed_master_data_and_settings.company_jinasena_pvt_ltd
+misc_charge_codes_vat_on_item,1,10,1,Value Added Tax - Loaded on Items.,VAT-on-Item,seed_master_data_and_settings.company_jinasena_pvt_ltd
+misc_charge_codes_vat_on_gl,1,10,1,Value Added Tax - Loaded on GL.,VAT-on-GL,seed_master_data_and_settings.company_jinasena_pvt_ltd
+misc_charge_codes_sscl,1,10,1,Social Security Contribution Levy,SSCL,seed_master_data_and_settings.company_jinasena_pvt_ltd
 misc_charge_codes_nbt_155,1,10,1,NBT Tax Applicable,NBT,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 misc_charge_codes_nbt_n_156,1,10,1,NBT Tax not Applicable,NBT-N,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 misc_charge_codes_vat_on_item_157,1,10,1,Value Added Tax - Loaded on Items.,VAT-on-Item,seed_master_data_and_settings.company_jinasena_agricultural_machinery
@@ -34,12 +34,12 @@ misc_charge_codes_sup_bank_charge,1,10,1,Supplier's Bank Charges,Sup.Bank Charge
 misc_charge_codes_pallet_charges,1,10,1,Pallet Charges,Pallet Charges,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 misc_charge_codes_document_charges,1,10,1,Document Charges,Document Charges,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 misc_charge_codes_other,1,10,1,Other charges,Other,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-misc_charge_codes_bankcharge_179,1,10,1,Bank charges,BankCharge,base.main_company
-misc_charge_codes_clearing_180,1,10,1,Clearing charges,Clearing,base.main_company
-misc_charge_codes_freight_ex_work_181,1,10,1,Freight charges,Freight & Ex work,base.main_company
-misc_charge_codes_insurance_182,1,10,1,Insurance charges,Insurance,base.main_company
-misc_charge_codes_misc_183,1,10,1,Misc charges,Misc,base.main_company
-misc_charge_codes_sup_bank_charge_184,1,10,1,Supplier's Bank Charges,Sup.Bank Charge,base.main_company
-misc_charge_codes_pallet_charges_185,1,10,1,Pallet Charges,Pallet Charges,base.main_company
-misc_charge_codes_document_charges_186,1,10,1,Document Charges,Document Charges,base.main_company
-misc_charge_codes_other_187,1,10,1,Other charges,Other,base.main_company
+misc_charge_codes_bankcharge_179,1,10,1,Bank charges,BankCharge,seed_master_data_and_settings.company_jinasena_pvt_ltd
+misc_charge_codes_clearing_180,1,10,1,Clearing charges,Clearing,seed_master_data_and_settings.company_jinasena_pvt_ltd
+misc_charge_codes_freight_ex_work_181,1,10,1,Freight charges,Freight & Ex work,seed_master_data_and_settings.company_jinasena_pvt_ltd
+misc_charge_codes_insurance_182,1,10,1,Insurance charges,Insurance,seed_master_data_and_settings.company_jinasena_pvt_ltd
+misc_charge_codes_misc_183,1,10,1,Misc charges,Misc,seed_master_data_and_settings.company_jinasena_pvt_ltd
+misc_charge_codes_sup_bank_charge_184,1,10,1,Supplier's Bank Charges,Sup.Bank Charge,seed_master_data_and_settings.company_jinasena_pvt_ltd
+misc_charge_codes_pallet_charges_185,1,10,1,Pallet Charges,Pallet Charges,seed_master_data_and_settings.company_jinasena_pvt_ltd
+misc_charge_codes_document_charges_186,1,10,1,Document Charges,Document Charges,seed_master_data_and_settings.company_jinasena_pvt_ltd
+misc_charge_codes_other_187,1,10,1,Other charges,Other,seed_master_data_and_settings.company_jinasena_pvt_ltd

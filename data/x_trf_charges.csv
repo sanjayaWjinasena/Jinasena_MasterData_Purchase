@@ -8,12 +8,12 @@ trf_charges_sup_bank_charge,1,10,Sup.Bank Charge,Supplier's Bank Charges,seed_ma
 trf_charges_pallet_charges,1,10,Pallet Charges,Pallet Charges,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 trf_charges_document_charges,1,10,Document Charges,Document Charges,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 trf_charges_other,1,10,Other,Other charges,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-trf_charges_bankcharge_121,1,10,BankCharge,Bank charges,base.main_company
-trf_charges_clearing_122,1,10,Clearing,Clearing charges,base.main_company
-trf_charges_freight_ex_work_123,1,10,Freight & Ex work,Freight charges,base.main_company
-trf_charges_insurance_124,1,10,Insurance,Insurance charges,base.main_company
-trf_charges_misc_125,1,10,Misc,Misc charges,base.main_company
-trf_charges_sup_bank_charge_126,1,10,Sup.Bank Charge,Supplier's Bank Charges,base.main_company
-trf_charges_pallet_charges_127,1,10,Pallet Charges,Pallet Charges,base.main_company
-trf_charges_document_charges_128,1,10,Document Charges,Document Charges,base.main_company
-trf_charges_other_129,1,10,Other,Other charges,base.main_company
+trf_charges_bankcharge_121,1,10,BankCharge,Bank charges,seed_master_data_and_settings.company_jinasena_pvt_ltd
+trf_charges_clearing_122,1,10,Clearing,Clearing charges,seed_master_data_and_settings.company_jinasena_pvt_ltd
+trf_charges_freight_ex_work_123,1,10,Freight & Ex work,Freight charges,seed_master_data_and_settings.company_jinasena_pvt_ltd
+trf_charges_insurance_124,1,10,Insurance,Insurance charges,seed_master_data_and_settings.company_jinasena_pvt_ltd
+trf_charges_misc_125,1,10,Misc,Misc charges,seed_master_data_and_settings.company_jinasena_pvt_ltd
+trf_charges_sup_bank_charge_126,1,10,Sup.Bank Charge,Supplier's Bank Charges,seed_master_data_and_settings.company_jinasena_pvt_ltd
+trf_charges_pallet_charges_127,1,10,Pallet Charges,Pallet Charges,seed_master_data_and_settings.company_jinasena_pvt_ltd
+trf_charges_document_charges_128,1,10,Document Charges,Document Charges,seed_master_data_and_settings.company_jinasena_pvt_ltd
+trf_charges_other_129,1,10,Other,Other charges,seed_master_data_and_settings.company_jinasena_pvt_ltd

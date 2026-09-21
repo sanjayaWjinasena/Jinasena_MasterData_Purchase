@@ -1,23 +1,23 @@
 id,x_studio_company_id/id,x_active,x_studio_sequence,x_studio_description,x_name
-tariffmaster_3815_90_00,base.main_company,1,10,Catalyst,3815.90.00
-tariffmaster_3907_29_00,base.main_company,1,10,Noyrl,3907.29.00
-tariffmaster_7318_16_00,base.main_company,1,10,Nuts,7318.16.00
-tariffmaster_7412_20_00,base.main_company,1,10,Connectors,7412.20.00
-tariffmaster_8413_70_19,base.main_company,1,10,Centrifugal Water Pumps,8413.70.19
-tariffmaster_8413_91_90,base.main_company,1,10,Pump Parts - Other,8413.91.90
-tariffmaster_8421_21_10,base.main_company,1,10,Household Purifier,8421.21.10
-tariffmaster_8433_53_00,base.main_company,1,10,Harvesting Machine,8433.53.00
-tariffmaster_8481_30_00,base.main_company,1,10,Check Valve,8481.30.00
-tariffmaster_8484_20_00,base.main_company,1,10,Mechanical Seals,8484.20.00
-tariffmaster_8501_40_10,base.main_company,1,10,Motors,8501.40.10
-tariffmaster_8501_52_10,base.main_company,1,10,Teco M,8501.52.10
-tariffmaster_8503_00_90,base.main_company,1,10,Fan Cover,8503.00.90
-tariffmaster_8532_25_90,base.main_company,1,10,Running Cpacitors,8532.25.90
-tariffmaster_8536_20_00,base.main_company,1,10,Otter Safety,8536.20.00
-tariffmaster_9026_20_00,base.main_company,1,10,For measuring or checking pressure,9026.20.00
-tariffmaster_9032_20_00,base.main_company,1,10,Pre. Switches,9032.20.00
-tariffmaster_7318_15_00,base.main_company,1,10,Spare Parts For CNC Lathe,7318.15.00
-tariffmaster_7415_33_90,base.main_company,1,10,Hex nut,7415.33.90
+tariffmaster_3815_90_00,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Catalyst,3815.90.00
+tariffmaster_3907_29_00,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Noyrl,3907.29.00
+tariffmaster_7318_16_00,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Nuts,7318.16.00
+tariffmaster_7412_20_00,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Connectors,7412.20.00
+tariffmaster_8413_70_19,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Centrifugal Water Pumps,8413.70.19
+tariffmaster_8413_91_90,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Pump Parts - Other,8413.91.90
+tariffmaster_8421_21_10,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Household Purifier,8421.21.10
+tariffmaster_8433_53_00,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Harvesting Machine,8433.53.00
+tariffmaster_8481_30_00,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Check Valve,8481.30.00
+tariffmaster_8484_20_00,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Mechanical Seals,8484.20.00
+tariffmaster_8501_40_10,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Motors,8501.40.10
+tariffmaster_8501_52_10,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Teco M,8501.52.10
+tariffmaster_8503_00_90,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Fan Cover,8503.00.90
+tariffmaster_8532_25_90,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Running Cpacitors,8532.25.90
+tariffmaster_8536_20_00,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Otter Safety,8536.20.00
+tariffmaster_9026_20_00,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,For measuring or checking pressure,9026.20.00
+tariffmaster_9032_20_00,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Pre. Switches,9032.20.00
+tariffmaster_7318_15_00,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Spare Parts For CNC Lathe,7318.15.00
+tariffmaster_7415_33_90,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,Hex nut,7415.33.90
 tariffmaster_2849_20_00,seed_master_data_and_settings.company_jinasena_agricultural_machinery,1,10,Silicon Carbide,2849.20.00
 tariffmaster_3208_10_10,seed_master_data_and_settings.company_jinasena_agricultural_machinery,1,10,Varnish,3208.10.10
 tariffmaster_3506_10_90,seed_master_data_and_settings.company_jinasena_agricultural_machinery,1,10,Super Glue,3506.10.90

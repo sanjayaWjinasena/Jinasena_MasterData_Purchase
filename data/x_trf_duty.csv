@@ -1,12 +1,12 @@
 id,x_studio_company_id/id,x_studio_sequence,x_name,x_active,x_studio_description
-trf_duty_cid,base.main_company,10,CID,1,Customs Duty
-trf_duty_eic,base.main_company,10,EIC,1,Cess Levy
-trf_duty_esc,base.main_company,10,ESC,1,Economic Service Charge
-trf_duty_excise,base.main_company,10,Excise,1,Excise Duty
-trf_duty_pal,base.main_company,10,PAL,1,Port and Airport Development Levy
-trf_duty_ridl,base.main_company,10,RIDL,1,Regional Infrastructure Development Levy
-trf_duty_srl,base.main_company,10,SRL,1,Social responsibility Levy
-trf_duty_surcharge,base.main_company,10,Surcharge,1,Surcharge
+trf_duty_cid,seed_master_data_and_settings.company_jinasena_pvt_ltd,10,CID,1,Customs Duty
+trf_duty_eic,seed_master_data_and_settings.company_jinasena_pvt_ltd,10,EIC,1,Cess Levy
+trf_duty_esc,seed_master_data_and_settings.company_jinasena_pvt_ltd,10,ESC,1,Economic Service Charge
+trf_duty_excise,seed_master_data_and_settings.company_jinasena_pvt_ltd,10,Excise,1,Excise Duty
+trf_duty_pal,seed_master_data_and_settings.company_jinasena_pvt_ltd,10,PAL,1,Port and Airport Development Levy
+trf_duty_ridl,seed_master_data_and_settings.company_jinasena_pvt_ltd,10,RIDL,1,Regional Infrastructure Development Levy
+trf_duty_srl,seed_master_data_and_settings.company_jinasena_pvt_ltd,10,SRL,1,Social responsibility Levy
+trf_duty_surcharge,seed_master_data_and_settings.company_jinasena_pvt_ltd,10,Surcharge,1,Surcharge
 trf_duty_cid_49,seed_master_data_and_settings.company_jinasena_agricultural_machinery,10,CID,1,Customs Duty
 trf_duty_eic_50,seed_master_data_and_settings.company_jinasena_agricultural_machinery,10,EIC,1,Cess Levy
 trf_duty_esc_51,seed_master_data_and_settings.company_jinasena_agricultural_machinery,10,ESC,1,Economic Service Charge
