@@ -31,7 +31,6 @@
         'data/x_structure_master.csv',
         'data/x_structure_details.csv',
         'data/x_imports_ledger_setup.csv',
-        'data/link/product.template.csv',
         'data/link/x_misc_charge_codes.csv',
         'data/link/x_import_charges.csv',
         'data/link/x_import_rfq_charge_he.csv',
