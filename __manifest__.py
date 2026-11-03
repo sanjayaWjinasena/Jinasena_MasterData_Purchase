@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Jinasena : MasterData : Purchase',
-    'version': '17.0.0.0.3',
+    'version': '17.0.0.0.4',
     'summary': 'Master-data extracted from CDB for Purchase domain.',
     'description': 'Extracted from Clear-DB. Test-env master data. Edit the CSVs in data/ to add/remove rows before install.',
     'author': 'Jinasena Agricultural Machinery (Pvt) Ltd.',
@@ -12,6 +12,7 @@
         'Jinasena_MasterData_Common',
         'Jinasena_MasterData_Accounting',
         'Jinasena_MasterData_Stock',
+        'Jinasena_KnownGood_Data',
     ],
     'data': [
         'data/x_delivery_terms.csv',
@@ -36,6 +37,7 @@
         'data/link/x_import_rfq_charge_he.csv',
         'data/link/x_import_rfq_charge_li.csv',
         'data/link/x_tariff_date.csv',
+        'data/product.supplierinfo.csv',
     ],
     'installable': True,
     'auto_install': False,
