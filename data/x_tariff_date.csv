@@ -1,4 +1,4 @@
-id,x_active,x_studio_sequence,x_studio_tarrif_from_date,x_studio_company_id/id
+id,active,sequence,x_studio_tarrif_from_date,accounting_company_id/id
 tariff_date_id_4,1,10,2026-10-01,seed_master_data_and_settings.company_jinasena_pvt_ltd
 tariff_date_id_5,1,10,2026-10-01,seed_master_data_and_settings.company_jinasena_pvt_ltd
 tariff_date_id_6,1,11,2026-10-06,seed_master_data_and_settings.company_jinasena_pvt_ltd

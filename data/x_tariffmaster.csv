@@ -1,4 +1,4 @@
-id,x_studio_company_id/id,x_active,x_studio_sequence,x_studio_description,x_name
+id,accounting_company_id/id,active,sequence,description,name
 tariffmaster_2849_20_01,seed_master_data_and_settings.company_jinasena_pvt_ltd,1,10,,2849.20.01
 tariffmaster_2849_20_00,seed_master_data_and_settings.company_jinasena_agricultural_machinery,1,10,Silicon Carbide,2849.20.00
 tariffmaster_3208_10_10,seed_master_data_and_settings.company_jinasena_agricultural_machinery,1,10,Varnish,3208.10.10

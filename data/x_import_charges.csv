@@ -1,4 +1,4 @@
-id,x_studio_company_id/id,x_active,x_studio_sequence,x_studio_charge_group,x_name,x_studio_charge_value,x_studio_posting_type,x_studio_post_to_ledger
+id,accounting_company_id/id,active,sequence,x_studio_charge_group,name,x_studio_charge_value,x_studio_posting_type,x_studio_post_to_ledger
 import_charges_bankcharge,seed_master_data_and_settings.company_jinasena_agricultural_machinery,1,10,Charges,BankCharge,0.0,"Purchase, Charge",1
 import_charges_clearing,seed_master_data_and_settings.company_jinasena_agricultural_machinery,1,10,Charges,Clearing,0.0,"Purchase, Charge",1
 import_charges_freight_ex_work,seed_master_data_and_settings.company_jinasena_agricultural_machinery,1,10,Charges,Freight & Ex work,0.0,"Purchase, Charge",1

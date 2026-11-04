@@ -1,4 +1,4 @@
-id,x_studio_structure_no,x_studio_basis,x_studio_tax_appicable,x_active,x_studio_amount,x_studio_sequence,x_studio_charge_group,x_studio_charge_name,x_studio_allocate_header_charges,x_studio_company_id/id
+id,x_studio_structure_no,x_studio_basis,x_studio_tax_appicable,active,x_studio_amount,sequence,x_studio_charge_group,x_studio_charge_name,x_studio_allocate_header_charges,accounting_company_id/id
 import_rfq_charge_he_id_5513,1,Fixed Per Document,,1,1000.0,10,Charges,BankCharge,,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 import_rfq_charge_he_id_5514,2,Fixed Per Document,,1,5000.0,10,Charges,Clearing,,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 import_rfq_charge_he_id_5515,3,Fixed Per Document,,1,9000.0,10,Charges,Freight & Ex work,,seed_master_data_and_settings.company_jinasena_agricultural_machinery

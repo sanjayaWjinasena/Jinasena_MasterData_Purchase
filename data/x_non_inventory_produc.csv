@@ -1,4 +1,4 @@
-id,x_studio_company_id/id,x_name,x_active,x_studio_sequence,x_studio_product_code
+id,accounting_company_id/id,name,active,sequence,x_studio_product_code
 non_inventory_produc_ninv_item_01,seed_master_data_and_settings.company_jinasena_agricultural_machinery,NInv-Item-01,1,10,Test Non-inventory item 01
 non_inventory_produc_ninv_item_02,seed_master_data_and_settings.company_jinasena_agricultural_machinery,NInv-Item-02,1,10,Test Non-inventory item 02
 non_inventory_produc_ninv_item_03,seed_master_data_and_settings.company_jinasena_agricultural_machinery,NInv-Item-03,1,10,Test Non-inventory item 03

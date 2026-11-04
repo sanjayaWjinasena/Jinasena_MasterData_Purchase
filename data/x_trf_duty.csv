@@ -1,4 +1,4 @@
-id,x_studio_company_id/id,x_studio_sequence,x_name,x_active,x_studio_description
+id,accounting_company_id/id,sequence,name,active,description
 trf_duty_cid_49,seed_master_data_and_settings.company_jinasena_agricultural_machinery,10,CID,1,Customs Duty
 trf_duty_eic_50,seed_master_data_and_settings.company_jinasena_agricultural_machinery,10,EIC,1,Cess Levy
 trf_duty_esc_51,seed_master_data_and_settings.company_jinasena_agricultural_machinery,10,ESC,1,Economic Service Charge

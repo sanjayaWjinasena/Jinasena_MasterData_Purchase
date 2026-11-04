@@ -1,4 +1,4 @@
-id,x_name,x_active,x_studio_sequence,x_studio_description,x_studio_company_id/id
+id,name,active,sequence,description,accounting_company_id/id
 trf_taxes_nbt_75,NBT,1,10,NBT Tax Applicable,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 trf_taxes_nbt_n_76,NBT-N,1,10,NBT Tax not Applicable,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 trf_taxes_vat_on_item_77,VAT-on-Item,1,10,Value Added Tax - Loaded on Items.,seed_master_data_and_settings.company_jinasena_agricultural_machinery

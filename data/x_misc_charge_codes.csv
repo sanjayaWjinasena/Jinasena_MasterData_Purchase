@@ -1,4 +1,4 @@
-id,x_active,x_studio_sequence,x_studio_system_entry,x_studio_description,x_name,x_studio_company_id/id
+id,active,sequence,x_studio_system_entry,description,name,accounting_company_id/id
 misc_charge_codes_bankcharge,1,10,1,Bank charges,BankCharge,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 misc_charge_codes_clearing,1,10,1,Clearing charges,Clearing,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 misc_charge_codes_freight_ex_work,1,10,1,Freight charges,Freight & Ex work,seed_master_data_and_settings.company_jinasena_agricultural_machinery

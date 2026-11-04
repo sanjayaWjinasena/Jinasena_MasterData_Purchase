@@ -1,4 +1,4 @@
-id,x_active,x_studio_sequence,x_name,x_studio_description,x_studio_lc,x_studio_company_id/id
+id,active,sequence,name,description,x_studio_lc,accounting_company_id/id
 payment_methods_cash_9,1,10,CASH,Cash,,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 payment_methods_bank_10,1,10,BANK,Bank,,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 payment_methods_lc_11,1,10,LC,Letter of Credit,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery

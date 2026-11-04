@@ -1,4 +1,4 @@
-id,x_studio_company_id/id,x_studio_tax_appicable2,x_active,x_studio_sequence,x_name,x_studio_description,x_studio_delivery_terms_id/id,x_studio_tax_appicable,x_studio_applicable
+id,accounting_company_id/id,x_studio_tax_appicable2,active,sequence,name,description,x_studio_delivery_terms_id/id,x_studio_tax_appicable,x_studio_applicable
 delivery_term_charge_test,,,1,10,test,,,,
 delivery_term_charge_bankcharge,,,1,10,BankCharge,Bank charges,,,
 delivery_term_charge_c_f,,,1,10,C & F,Cost and freight,,,1

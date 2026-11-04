@@ -1,4 +1,4 @@
-id,x_name,x_active,x_studio_sequence,x_studio_description,x_studio_copied,x_studio_vendor_despatch,x_studio_company_id/id
+id,name,active,sequence,description,x_studio_copied,x_studio_vendor_despatch,accounting_company_id/id
 delivery_terms_cfr,CFR,1,10,Cost and Freight,,,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 delivery_terms_fob,FOB,1,10,Free On Board,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 delivery_terms_cif,CIF,1,10,Cost Insurance & Freight,,,seed_master_data_and_settings.company_jinasena_agricultural_machinery
