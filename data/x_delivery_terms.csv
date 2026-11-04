@@ -1,7 +1,7 @@
 id,name,active,sequence,description,x_studio_copied,x_studio_vendor_despatch,accounting_company_id/id
 delivery_terms_cfr,CFR,1,10,Cost and Freight,,,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 delivery_terms_fob,FOB,1,10,Free On Board,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-delivery_terms_cif,CIF,1,10,Cost Insurance & Freight,,,seed_master_data_and_settings.company_jinasena_agricultural_machinery
+delivery_terms_cif,CIF,1,10,Cost Insurance & Freight,1,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 delivery_terms_cip,CIP,1,10,Carriage & Insurance Paid To…,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 delivery_terms_cpt,CPT,1,10,Carriage Paid to...,,,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 delivery_terms_cptpt,CPTPT,1,10,Carriage Paid to 3rd Party Transportation,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
@@ -13,7 +13,6 @@ delivery_terms_des,DES,1,10,Delivered Ex Ship,,1,seed_master_data_and_settings.c
 delivery_terms_exw,EXW,1,10,EX Works,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 delivery_terms_fas,FAS,1,10,Free Alongside Ship,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 delivery_terms_fca,FCA,1,10,Free Carrier,,1,seed_master_data_and_settings.company_jinasena_agricultural_machinery
-delivery_terms_test,Test,1,10,,,,seed_master_data_and_settings.company_jinasena_agricultural_machinery
 delivery_terms_cfr_81,CFR,1,10,Cost and Freight,,,seed_master_data_and_settings.company_jinasena_pvt_ltd
 delivery_terms_fob_82,FOB,1,10,Free On Board,,1,seed_master_data_and_settings.company_jinasena_pvt_ltd
 delivery_terms_cif_83,CIF,1,10,Cost Insurance & Freight,,,seed_master_data_and_settings.company_jinasena_pvt_ltd
